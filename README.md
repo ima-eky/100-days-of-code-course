@@ -5,6 +5,7 @@ This course aims at improving programming skills and mastering Python by buildin
 
 ## Introduction
 The projects contained in this repository are of varying difficulty levels, from beginner to advanced.
+They are arranged from Day 1 to Day 100
 
 ## Steps To Follow
 Detailed description and steps to follow for each projects are contained in the README file in each of the project directories
@@ -47,7 +48,7 @@ Generally, the following steps will apply to all projects.
     ```
 
 - Edit the code and add to the respective folder in the projects directory, locally.
-- 
+
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
