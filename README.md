@@ -8,7 +8,7 @@ The projects contained in this repository are of varying difficulty levels, from
 They are arranged from Day 1 to Day 100
 
 ## Steps To Follow
-**Detailed description and steps to follow for each projects are contained in the README file in each of the project directories**
+**Detailed description and steps to follow for each projects are contained in the README file in each of the project directories.**
 Generally, the following steps will apply to all projects.
 
 - **Star** this repository.
