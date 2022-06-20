@@ -11,11 +11,9 @@ They are arranged from Day 1 to Day 100
 Detailed description and steps to follow for each projects are contained in the README file in each of the project directories
 Generally, the following steps will apply to all projects.
 
-- Select a project to work on.
-- Check existing scripts in the projects directory.
 - **Star** this repository.
 - On the [100-Days-of-Code-Course](https://github.com/ima-eky/100-days-of-code-course) repo page, click the **Fork** button.
-    <br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" title="Fork image" width="400"/>
+    <br><img src="https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png" title="Fork image" width="400"/>
 - **Clone** your forked repository to your local machine. This button will show you the URL to run.
     <br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
 
@@ -47,8 +45,9 @@ Generally, the following steps will apply to all projects.
     git checkout -b <branch-name>
     ```
 
+- Open the folder for the intended day
+- Check existing scripts in the projects directory.
 - Edit the code and add to the respective folder in the projects directory, locally.
-
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
@@ -66,9 +65,9 @@ Generally, the following steps will apply to all projects.
 
 SR No   | Project | Author  
 --- | --- | ---
-1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | [Ravi Chavare](https://github.com/chavarera)
-2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| [Murilo Pagliuso](https://github.com/DarkCeptor44)
-3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) | [Mitesh](https://github.com/Mitesh2499)
-4 | [Instagram Profile Info](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile) | [Ravi Chavare](https://github.com/chavarera)
-5 | [Search string in Files](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files) | [Mitesh](https://github.com/Mitesh2499)
-6 | [Fetch links from Webpage](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage) | [Mitesh](https://github.com/Mitesh2499) & [Michael Mba](https://github.com/mikeysan)
+1 | [Final-day-20-and-day-21](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-20-and-day-21) | [Ima-Abasi Ekanem](https://github.com/ima-eky)
+2 | [Final-day-22](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-22)| [Ima-Abasi Ekanem](https://github.com/ima-eky)
+3 | [Final-day-23](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-23) | [Ima-Abasi Ekanem](https://github.com/ima-eky)
+4 | [Final-day-24](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-24) | [Ima-Abasi Ekanem](https://github.com/ima-eky)
+5 | [Final-day-25](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-25) | [Ima-Abasi Ekanem](https://github.com/ima-eky)
+6 | [Final-day-26](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-26) | [Ima-Abasi Ekanem](https://github.com/ima-eky)
