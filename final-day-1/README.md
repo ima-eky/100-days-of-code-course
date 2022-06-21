@@ -10,3 +10,7 @@ Python must be installed on your computer. Click [here.](https://www.python.org/
 ## How to run the script
 
 `python band_game_generator.py`
+
+## Output expected
+
+`A band name that comprises of the city you grew in and your pet name i.e Bristol Jack`
