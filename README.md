@@ -65,7 +65,7 @@ Generally, the following steps will apply to all projects.
 
 SR No   | Project | Author  
 --- | --- | ---
-1 | [day-1-band-game-generator](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-1) | [Ima-Abasi Ekanem](https://github.com/ima-eky)
+1 | [day-1-band-game-generator](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-1) | [Ima-Abasi Ekanem](https://github.com/ima-eky)
 2 | [Final-day-20-and-day-21](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-20-and-day-21) | [Ima-Abasi Ekanem](https://github.com/ima-eky)
 3 | [Final-day-22](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-22)| [Ima-Abasi Ekanem](https://github.com/ima-eky)
 4 | [Final-day-23](https://github.com/ima-eky/100-days-of-code-course/tree/main/final-day-23) | [Ima-Abasi Ekanem](https://github.com/ima-eky)
