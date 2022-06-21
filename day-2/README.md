@@ -1,9 +1,14 @@
 ##  Tip Calculator
 
-In this script a simple tip calculator is made which takes 
+In this script a simple tip calculator is made which takes the following as input
 
-1.billing amount
-2.type of service, and a number of persons as input. As per the three inputs it generates a tip for the serving person.
+1.The total bill amount without the tip
+
+2.The percent of tip intended to give
+
+3.The number of persons splitting the total bill with the bill .
+
+And it generates a tip for each person.
 Another function used was the `input()` and `title()` function.This project goes three steps further than the first line of code written by every programmer(Hello World).The working_with_variable file can be used to aid understanding.
 ## Prerequisites
 
