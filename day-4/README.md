@@ -1,11 +1,14 @@
-##  Treasure Island 
-Treasure Island is a beginner story-based project where the user tries to navigate to the island without getting hurt.
+## Rock Paper Scissors Game
 
-Conditonal statements are very handy in this script.The lower() method returns a string where all characters are lower case.Symbols and numbers are ignored.
+- To be played against computer.
+- Rock wins scissors,scissors wins paper,paper wins rock.
+- Scores are recorded for each game and total score is hown at the end of all games.
+- You can choose how many times you want to play.
+- Random module was used to determine how computer played.[Python Random Module](https://www.w3schools.com/python/module_random.asp)
 
 
 ## Recommended Resources
-~ [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
+~ [Python while loop](https://www.w3schools.com/python/python_while_loops.asp)
 
 ~ **[Python Conditional Statements](https://www.w3schools.com/python/python_conditions.asp)**
 
@@ -13,7 +16,7 @@ Conditonal statements are very handy in this script.The lower() method returns a
 
 ~[Python User Input](https://www.w3schools.com/python/python_user_input.asp)
 
-~[Python String Methods](https://www.w3schools.com/python/ref_string_lower.asp)
+~[Python List](https://www.w3schools.com/python/python_lists.asp)
 
 ## Prerequisites
 
@@ -21,21 +24,32 @@ Python must be installed on your computer. Click [here.](https://www.python.org/
 
 ## How to run the script
 
-`python treasure_island.py`
-## Output expected (depends on the input provided by the user)
+`python rock_paper_scissors.py`
+## Output expected
+
 ```
-Welcome to Treasure Island
-Your mission is to find the treasure.
-You are at a crossroad. Where do you want to go? Type "left" or "right":left
-You fell into a hole.Game Over.
-```
-```
-Welcome to Treasure Island
-Your mission is to find the treasure.
-You are at a crossroad. Where do you want to go? Type "left" or "right":right
-You have come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat.
-Type "swim" to swim across.:swim
-You arrive at the island unharmed. There is a house with 3 doors.
-One red, one yellow and one blue. Which colour do you choose?blue
-You found the treasure! You  Win!
+How many times do you want to play?:3
+
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:0
+Computer wins
+Computer chose paper and you chose rock
+User score: 0              Computer_score: 1
+2 trials left
+
+
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:1
+It is a draw
+Computer chose paper and you chose paper
+User score: 0              Computer_score: 1
+1 trials left
+
+
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:2
+You win
+Computer chose paper and you chose scissors
+User score: 1              Computer_score: 1
+0 trials left
+
+User score: 1              Computer_score: 1
+It is a draw
 ```
