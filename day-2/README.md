@@ -13,9 +13,11 @@ This project uses the knowledge of data types(type check,type conversion,number 
 
 ## Recommended Resources
 ~ [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
-## Prerequisites
+
 ~[Python Operators](https://www.w3schools.com/python/python_operators.asp)
 
+~[Formatting python strings](https://realpython.com/python-f-strings/)
+## Prerequisites
 Python must be installed on your computer. Click [here.](https://www.python.org/downloads/) to install if it is not installed.
 
 ## How to run the script
