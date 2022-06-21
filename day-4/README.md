@@ -23,7 +23,7 @@ Python must be installed on your computer. Click [here.](https://www.python.org/
 
 ## How to run the script
 
-`python treasure_island.py`
+`python rock_paper_scissors.py`
 ## Output expected (depends on the input provided by the user)
 ```
 Welcome to Treasure Island
