@@ -1,7 +1,7 @@
 ##  Treasure Island 
 Treasure Island is a beginner story-based project where the user tries to navigate to the island without getting hurt.
 
-Conditonal statements are very handy in this script.The lower() method returns a string where all characters are lower case,symbols and numbers are ignored.
+Conditonal statements are very handy in this script.The lower() method returns a string where all characters are lower case.Symbols and numbers are ignored.
 
 
 ## Recommended Resources
