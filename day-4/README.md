@@ -24,20 +24,31 @@ Python must be installed on your computer. Click [here.](https://www.python.org/
 ## How to run the script
 
 `python rock_paper_scissors.py`
-## Output expected (depends on the input provided by the user)
+## Output expected
+
 ```
-Welcome to Treasure Island
-Your mission is to find the treasure.
-You are at a crossroad. Where do you want to go? Type "left" or "right":left
-You fell into a hole.Game Over.
-```
-```
-Welcome to Treasure Island
-Your mission is to find the treasure.
-You are at a crossroad. Where do you want to go? Type "left" or "right":right
-You have come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat.
-Type "swim" to swim across.:swim
-You arrive at the island unharmed. There is a house with 3 doors.
-One red, one yellow and one blue. Which colour do you choose?blue
-You found the treasure! You  Win!
+How many times do you want to play?:3
+
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:0
+Computer wins
+Computer chose paper and you chose rock
+User score: 0              Computer_score: 1
+2 trials left
+
+
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:1
+It is a draw
+Computer chose paper and you chose paper
+User score: 0              Computer_score: 1
+1 trials left
+
+
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:2
+You win
+Computer chose paper and you chose scissors
+User score: 1              Computer_score: 1
+0 trials left
+
+User score: 1              Computer_score: 1
+It is a draw
 ```
