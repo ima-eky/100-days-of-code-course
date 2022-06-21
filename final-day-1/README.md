@@ -5,4 +5,4 @@ Another function used was the `input()` function.This project goes three steps f
 Python must be installed on your computer. 
 
 Prerequisites
-Python must be installed on your computer. Click [here.]("https://www.python.org/downloads/")
+Python must be installed on your computer. Click [here.]("https://www.python.org/downloads/") repo
