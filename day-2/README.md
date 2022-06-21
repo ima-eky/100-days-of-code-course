@@ -9,7 +9,10 @@ In this script a simple tip calculator is made which takes the following as inpu
 3.The number of persons splitting the total bill with the bill .
 
 And it generates a tip for each person.
-Another function used was the `input()` and `title()` function.This project goes three steps further than the first line of code written by every programmer(Hello World).The working_with_variable file can be used to aid understanding.
+This project uses the knowledge of data types(type check,type conversion,number manipulation) ,mathematical operations,f strings ,input() and so on to achieve end results.
+
+## Recommended Resources
+~ [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 ## Prerequisites
 
 Python must be installed on your computer. Click [here.](https://www.python.org/downloads/) to install if it is not installed.
