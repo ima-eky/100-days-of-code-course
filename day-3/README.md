@@ -22,24 +22,20 @@ Python must be installed on your computer. Click [here.](https://www.python.org/
 ## How to run the script
 
 `python treasure_island.py`
-
 ## Output expected (depends on the input provided by the user)
-
 ```
 Welcome to Treasure Island
 Your mission is to find the treasure.
 You are at a crossroad. Where do you want to go? Type "left" or "right":left
 You fell into a hole.Game Over.
-
-
 ```
 ```
 Welcome to Treasure Island
 Your mission is to find the treasure.
 You are at a crossroad. Where do you want to go? Type "left" or "right":right
-You have come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.:swim
+You have come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat.
+Type "swim" to swim across.:swim
 You arrive at the island unharmed. There is a house with 3 doors.
 One red, one yellow and one blue. Which colour do you choose?blue
 You found the treasure! You  Win!
-
 ```
