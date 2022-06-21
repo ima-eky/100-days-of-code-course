@@ -1,9 +1,9 @@
 ## Rock Paper Scissors Game
 
--To be played against computer.
--Rock wins scissors,scissors wins paper,paper wins rock.
--Scores are recorded for each game and total score is hown at the end of all games.
--You can choose how many times you want to play.
+- To be played against computer.
+- Rock wins scissors,scissors wins paper,paper wins rock.
+- Scores are recorded for each game and total score is hown at the end of all games.
+- You can choose how many times you want to play.
 
 
 ## Recommended Resources
