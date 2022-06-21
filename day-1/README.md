@@ -5,7 +5,7 @@ Another function used was the `input()` and `title()` function.This project goes
 
 ## Recommended Resources
 
-~ The [working_with_variable file](https://github.com/ima-eky/100-days-of-code-course/day-1) can be used to aid understanding.
+~ The [working_with_variable file](https://github.com/ima-eky/100-days-of-code-course) can be used to aid understanding.
 
 ~ [Python User Input](https://www.w3schools.com/python/python_user_input.asp)
 
