@@ -5,7 +5,7 @@ Takes the following as input
 - Number of times numbers should appear in the password.
 - Number of times symbol should appear in the password.
 
-And it generates a random password generator
+And it generates a random password 
 
 
 ## Recommended Resources
