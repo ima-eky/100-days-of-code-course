@@ -1,20 +1,12 @@
-##  Tip Calculator
+##  Treasure Island 
+Treasure Island is a beginner story-based project where the user tries to navigate to destination without getting hurt.
 
-In this script ,a simple tip calculator is made which takes the following as input
-
-1.The total bill amount without the tip
-
-2.The percent of tip intended to give
-
-3.The number of persons splitting the total bill with the bill .
-
-And it generates an amount to be payed by each person.
-This project uses the knowledge of `data types(type check,type conversion,number manipulation) ,mathematical operations,f strings ,input()`and so on to achieve end results.
+Conditonal statements are very handy in this script.
 
 ## Recommended Resources
 ~ [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 
-~[Python Operators](https://www.w3schools.com/python/python_operators.asp)
+~ **[Python Conditional Statements](https://www.w3schools.com/python/python_conditions.asp)**
 
 ~[Formatting python strings](https://realpython.com/python-f-strings/)
 
