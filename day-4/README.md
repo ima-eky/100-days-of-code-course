@@ -1,11 +1,12 @@
-##  Treasure Island 
-Treasure Island is a beginner story-based project where the user tries to navigate to the island without getting hurt.
-
-Conditonal statements are very handy in this script.The lower() method returns a string where all characters are lower case.Symbols and numbers are ignored.
+## Rock Paper Scissors Game
+-To be played against computer
+-Rock wins scissors,scissors wins paper,paper wins rock.
+-Scores are recorded for each game and total score is hown at the end of all games
+-You can choose how many times you want to play
 
 
 ## Recommended Resources
-~ [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
+~ [Python while loop](https://www.w3schools.com/python/python_while_loops.asp)
 
 ~ **[Python Conditional Statements](https://www.w3schools.com/python/python_conditions.asp)**
 
@@ -13,7 +14,7 @@ Conditonal statements are very handy in this script.The lower() method returns a
 
 ~[Python User Input](https://www.w3schools.com/python/python_user_input.asp)
 
-~[Python String Methods](https://www.w3schools.com/python/ref_string_lower.asp)
+~[Python List](https://www.w3schools.com/python/python_lists.asp)
 
 ## Prerequisites
 
