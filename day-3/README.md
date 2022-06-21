@@ -1,24 +1,19 @@
-##  Tip Calculator
+##  Treasure Island 
+Treasure Island is a beginner story-based project where the user tries to navigate to the island without getting hurt.
 
-In this script ,a simple tip calculator is made which takes the following as input
+Conditonal statements are very handy in this script.The lower() method returns a string where all characters are lower case.Symbols and numbers are ignored.
 
-1.The total bill amount without the tip
-
-2.The percent of tip intended to give
-
-3.The number of persons splitting the total bill with the bill .
-
-And it generates an amount to be payed by each person.
-This project uses the knowledge of `data types(type check,type conversion,number manipulation) ,mathematical operations,f strings ,input()`and so on to achieve end results.
 
 ## Recommended Resources
 ~ [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 
-~[Python Operators](https://www.w3schools.com/python/python_operators.asp)
+~ **[Python Conditional Statements](https://www.w3schools.com/python/python_conditions.asp)**
 
 ~[Formatting python strings](https://realpython.com/python-f-strings/)
 
 ~[Python User Input](https://www.w3schools.com/python/python_user_input.asp)
+
+~[Python String Methods](https://www.w3schools.com/python/ref_string_lower.asp)
 
 ## Prerequisites
 
@@ -26,15 +21,21 @@ Python must be installed on your computer. Click [here.](https://www.python.org/
 
 ## How to run the script
 
-`python tip_calulator.py`
-
-## Output expected
-
+`python treasure_island.py`
+## Output expected (depends on the input provided by the user)
 ```
-Welcome to the the calculator!
-What was the total bill?: $124.56
-How much tip would you like to give? 10, 12, or 15?: 12
-How many people to split the bill?:7
-Each person should pay: $19.93
-
+Welcome to Treasure Island
+Your mission is to find the treasure.
+You are at a crossroad. Where do you want to go? Type "left" or "right":left
+You fell into a hole.Game Over.
+```
+```
+Welcome to Treasure Island
+Your mission is to find the treasure.
+You are at a crossroad. Where do you want to go? Type "left" or "right":right
+You have come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat.
+Type "swim" to swim across.:swim
+You arrive at the island unharmed. There is a house with 3 doors.
+One red, one yellow and one blue. Which colour do you choose?blue
+You found the treasure! You  Win!
 ```
