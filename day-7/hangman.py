@@ -1,8 +1,6 @@
 import random
-from hangman_art import logo, stages
+from hangman_art import  stages
 
-print(logo)
-print()
 # Update the word list to use the 'word_list' from hangman_words.py
 
 from hangman_words import word_list
@@ -32,7 +30,7 @@ while not end_of_game:
         lives -= 1
         if lives == 0:
             end_of_game = True
-            print("You lose.")
+            print(f"You lose.\nTry again another time")
 
     # Join all the elements in the list and turn it into a String.
     print(f"{' '.join(display)}")

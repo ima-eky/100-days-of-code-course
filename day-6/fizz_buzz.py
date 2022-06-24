@@ -1,4 +1,4 @@
-print("Fizz Buzz")
+print("Fizz Buzz\n")
 for number in range(1, 101):
     if number%15==0:
         print(f'FizzBuzz')
