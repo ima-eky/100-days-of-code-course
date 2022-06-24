@@ -1,9 +1,9 @@
 # Encode or Decode Text
 A python program that takes the following as input from user(Assuming all inputs  must be **VALID**)
 
--If text should be encoded or decoded
--Text or message to be ciphered
--Shift amount(A key used to cipher message that is only shared with who you want to read your message)
+- If text should be encoded or decoded
+- Text or message to be ciphered
+- Shift amount(A key used to cipher message that is only shared with who you want to read your message)
 
 
 ## Prerequisites
