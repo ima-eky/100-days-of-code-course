@@ -27,11 +27,12 @@ Python must be installed on your computer. Click [here.](https://www.python.org/
 ## Output expected
 
 ```
+Welcome to the PyPassword Generator!
 How many letters would you like in your password?
-2
-How many symbols would you like?
 3
+How many symbols would you like?
+5
 How many numbers would you like?
 4
-4k78F%!$9
+Your password is +#$%26G%Vm32
 ```
