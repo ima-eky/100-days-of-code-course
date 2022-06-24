@@ -21,7 +21,7 @@ def caesar(start_text, shift_amount, cipher_direction):
         else:
             end_text += char
 
-    print(f"Here's the {cipher_direction}d result: {end_text}")
+    print(f"Here's the {cipher_direction}d result: {end_text.capitalize()}")
 
 
 should_not_end = True
@@ -33,7 +33,7 @@ while (should_not_end):
 
     caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
 
-    should_continue = input(f"Type 'yes' if you want to continue.Otherwise type 'no':")
+    should_continue = input(f"Type 'yes' if you want to continue.Otherwise type 'no' :")
     if should_continue.lower() == "no":
         should_not_end= False
         print(f"Goodbye")
