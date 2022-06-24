@@ -1,7 +1,7 @@
 ## Hangman
 Hangman is a popular word guessing game where the player attempts to build a missing word by guessing one letter at a time. After a certain number of incorrect guesses(six in this script), the game ends and the player loses. The game also ends if the player correctly identifies all the letters of missing word.
 As the player makes wrong guesses,a picture of hangman(stages) is drawn.
-- You might  have to import hangman_art.py if you haven't(also in day-7 directory) to access these drawings of hangman for each stage of failure using ``` from hangman_art import stages ``` or ``` import hangman_art```(to use stages,**hangman_art.stages**) or  you can rename the module ``` import hangman_art as player_status```(to use stages,**player_status.stages**)
+- You might  have to import hangman_art.py if you haven't(also in day-7 directory) to access these drawings of hangman for each stage of failure using ``` from hangman_art import stages ``` or ``` import hangman_art```(to use stages,`hangman_art.stages` can be used) or  you can rename the module ``` import hangman_art as player_status```(to use stages,`player_status.stages` can be used)
 - You can read more on [Python Modules](https://www.w3schools.com/python/python_modules.asp)
 
 ## Recommended Resources
