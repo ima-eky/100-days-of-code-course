@@ -1,6 +1,6 @@
 ##  Tip Calculator
 
-In this script ,a simple tip calculator is made which takes the following as input
+In this script ,a simple tip calculator program is made which takes the following as input
 
 1.The total bill amount without the tip
 
