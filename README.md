@@ -7,24 +7,22 @@ If you are totally new to Github and open source , visit [here.](https://towards
 
 ## Steps To Follow
 
-- Select an issue and ask to be _assigned_ to it.
-- Check existing scripts in the [projects](/projects/) directory.
 - **Star** this repository.
-- On the [python-mini-projects](https://github.com/Python-World/python-mini-projects) repo page, click the **Fork** button.
-    <br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" title="Fork image" width="400"/>
+- On the [100-days-of-code-course](https://github.com/ima-eky/100-days-of-code-course) repo page, click the **Fork** button.
+    <br><img src="https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png" title="Fork image" width="400"/>
 - **Clone** your forked repository to your local machine. This button will show you the URL to run.
     <br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
 
     For example, run this command inside your terminal:
 
     ```bash
-    git clone https://github.com/<your-github-username>/python-mini-projects.git
+    git clone https://github.com/<your-github-username>/100-days-of-code-course.git
     ```
 
-    **Replace \<your-github-username\>!**
+    **Replace \<your-github-username\> with your specific Github username!**
 
     Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
-- Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
+- Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid any merge conflicts:
 
     ```bash
     git remote add upstream https://github.com/Python-World/python-mini-projects.git
@@ -37,18 +35,6 @@ If you are totally new to Github and open source , visit [here.](https://towards
 
 - If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
 
-- Checkout to development branch (*name your branch according to the issue name*).
-
-    ```bash
-    git checkout -b <branch-name>
-    ```
-
-- Create a folder in
-  [projects directory](https://github.com/Python-World/python-mini-projects/tree/master/projects)
-  according to issue name.
-- Write your code and add to the respective folder in the projects directory, locally.
-- Don't forget to add a `README.md` in your folder, according to the
-   [README_TEMPLATE.](https://github.com/Python-World/python-mini-projects/blob/master/README_TEMPLATE.md)
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
@@ -62,19 +48,10 @@ If you are totally new to Github and open source , visit [here.](https://towards
     git push origin <branch-name>
     ```
 
-- Go to the GitHub page of _your fork_, and **make a pull request**:
-
-    ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
-
-    Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-- Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification.
-
-## README Template for scripts
-
-[README Template](https://github.com/Python-World/python-mini-projects/blob/master/README_TEMPLATE.md)
 
 ## Contributors ✨
 
 SR No   | Project | Author  
 --- | --- | ---
-1 | [Day-1-](https://github.com/100-days-of-code/tree/master/day-1) | [Ekanem Ima-Abasi](https://github.com/Ima-Ekanem)
+1 | [Day-1-](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-1) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+
