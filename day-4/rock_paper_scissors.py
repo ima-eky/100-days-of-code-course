@@ -1,6 +1,7 @@
 import random
 
 # Write your code below this line
+print(f"Rock beats scissors,scissors beat paper and paper beats rock\n")
 number_of_games=int(input(f"How many times do you want to play?:"))
 game_to_deal=['rock','paper','scissors']
 
@@ -18,7 +19,7 @@ while number_of_games > 0:
     print(f'You win\nComputer chose {game_to_deal[computer_choice]} and you chose {game_to_deal[user_choice]}')
     user_score +=1
   elif user_choice == 0 and computer_choice==2:
-    print(f'You win\nComputer chose {game_to_deal[computer_choice]} and you {game_to_deal[user_choice]}')
+    print(f'You win\nComputer chose {game_to_deal[computer_choice]} and you chose {game_to_deal[user_choice]}')
     user_score +=1
   elif user_choice ==2 and computer_choice ==1:
     print(f'You win\nComputer chose {game_to_deal[computer_choice]} and you chose {game_to_deal[user_choice]}')
@@ -26,11 +27,14 @@ while number_of_games > 0:
   else:
     print(f'Computer wins\nComputer chose {game_to_deal[computer_choice]} and you chose {game_to_deal[user_choice]}')
     computer_score +=1
-  print(f"User score: {user_score}              Computer_score: {computer_score}")
+  print(f"Your score: {user_score}              Computer's score: {computer_score}")
   number_of_games -=1
-  print(f"{number_of_games} trials left\n")
+  if number_of_games >1 or number_of_games==0:
+    print(f"{number_of_games} trials left\n")
+  elif number_of_games ==1:
+    print(f"1 trial left")
 else:
-  print(f"User score: {user_score}              Computer_score: {computer_score}")
+  print(f"Your score: {user_score}              Computer's score: {computer_score}")
   if user_score > computer_score:
     print('Congratulations,You won')
   elif user_score == computer_score:

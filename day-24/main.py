@@ -15,4 +15,5 @@ for name in names:
     new_letter=content.replace(individual_name,name.strip())
     with open(f'./Output/ReadyToSend/letter_for_{name.strip()}.txt','w') as completed_letter:
         completed_letter.write(new_letter)
+
         #letters are ready to send now
