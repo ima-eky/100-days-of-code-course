@@ -1,18 +1,20 @@
 
-#HINT: You can call clear() to clear the output in the console.
-import  os
+#You can call clear() to clear the output in the console.
 from art import logo
+from replit import clear
+
 print(logo)
 print(f'Welcome to the secret auction program')
 dict={}
 choice =True
+
 while(choice):
+  clear()
   name=input(f'What is your name?: ')
   dict[name]=int(input(f'What\'s your bid?: $'))
   choice=input(f'Is there any other bider yes or no?:').lower()
   if choice=='yes':
-    choice=True
-    os.system("clear")
+    clear()
   else:
     choice=not True
 highest_bid=0

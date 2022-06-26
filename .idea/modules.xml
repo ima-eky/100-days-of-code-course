@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/100-days-of-code-course.iml" filepath="$PROJECT_DIR$/.idea/100-days-of-code-course.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/object_oriented_programming/.idea/object_oriented_programming.iml" filepath="$USER_HOME$/PycharmProjects/object_oriented_programming/.idea/object_oriented_programming.iml" />
     </modules>
   </component>
 </project>

@@ -1,5 +1,5 @@
 import  random
-
+from replit import  clear
 cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 ## The cards in the list have equal probability of being drawn.
 ## Cards are not removed from the deck as they are drawn.
@@ -65,8 +65,9 @@ def play_game():
     while computer_score != 0 and computer_score < 17:
         computer_cards.append(deal_card(cards))
         computer_score = calculate_score(computer_cards)
-    print(f"   Your final hand: {user_cards}, final score: {user_score}")
-    print(f"   Computer's final hand: {computer_cards}, final score: {computer_score}")
+    print()
+    print(f"Your final hand: {user_cards}, final score: {user_score}")
+    print(f"Computer's final hand: {computer_cards}, final score: {computer_score}")
     compare(user_score, computer_score)
 
 
