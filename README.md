@@ -67,3 +67,5 @@ SR No   | Project | Author
 13 | [Day-13- Debugging your Code](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-13)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 14 | [Day-14-Higher or Lower](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-14)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 15 | [Day-15_16-Cofee Machine](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-15_16)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+16 | [Day-17-Quiz Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-17)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+17 |[Day-18-Hirst Painting](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-18)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
