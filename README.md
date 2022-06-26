@@ -63,3 +63,5 @@ SR No   | Project | Author
 8 | [Day-8-Cipher Text(Encrypt or decrypt)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-8)|[Ekanem Ima-Abasi](https://github.com/ima-eky)
 10 | [Day-10-Calculator(Beginner)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-10)     | [Ekanem Ima-Abasi](https://github.com/ima-eky)
 11 | [Day-11-Blackjack](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-11)     | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+12 | [Day-12-Guess the Number](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-12) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+13 |[Day-13- Debugging your Code](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-13)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
