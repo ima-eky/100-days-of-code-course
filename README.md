@@ -65,3 +65,4 @@ SR No   | Project | Author
 11 | [Day-11-BlackJack](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-11)     | [Ekanem Ima-Abasi](https://github.com/ima-eky)
 12 | [Day-12-Guess the Number](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-12) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
 13 |[Day-13- Debugging your Code](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-13)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+14 |[Day-14-Higher or Lower] (https://github.com/ima-eky/100-days-of-code-course/tree/main/day-14)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
