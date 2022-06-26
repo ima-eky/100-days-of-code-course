@@ -55,3 +55,6 @@ SR No   | Project | Author
 --- | --- | ---
 1 | [Day-1-Band Name Generator](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-1) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
 2 | [Day-2-Tip Calculator](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-2)      | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+3 | [Day-3-Treasure Island](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-3)     | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+4 | [Day-4-Rock Paper and Scissors](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-4) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+5 | [Day-5-Random Password Generator(Beginner)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-5)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
