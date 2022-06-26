@@ -1,6 +1,6 @@
 # Calculator
 In this script,a python program that performs the four basic operation is created
-- Errors and exceptions are not properly handled(It is assumed correct inputs would be given `intergers only`)
+- Errors and exceptions are not properly handled(It is assumed correct inputs would be given `integers only`)
 
 ## Prerequisites
 Python 3
