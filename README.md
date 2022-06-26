@@ -54,4 +54,4 @@ If you are totally new to Github and open source , visit [here.](https://towards
 SR No   | Project | Author  
 --- | --- | ---
 1 | [Day-1-Band Name Generator](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-1) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
-
+2 | [Day-2-Tip Calculator](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-2)      | [Ekanem Ima-Abasi](https://github.com/ima-eky)
