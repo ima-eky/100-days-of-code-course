@@ -25,16 +25,14 @@ Do you want to play a game of Blackjack? Type 'y' or 'n': y
       |  \/ K|                            _/ |                
       `------'                           |__/           
 
-Your cards:[3, 5],current score: 8
+Your cards:[10, 6],current score: 16
 Computer's first card:10
 Type 'y' to get another card or 'n' to pass: y
-Your cards:[3, 5, 5],current score: 13
+Your cards:[10, 6, 8],current score: 24
 Computer's first card:10
-Type 'y' to get another card or 'n' to pass: y
-Your cards:[3, 5, 5, 10],current score: 23
-Computer's first card:10
-   Your final hand: [3, 5, 5, 10], final score: 23
-   Computer's final hand: [10, 4, 5], final score: 19
+
+Your final hand: [10, 6, 8], final score: 24
+Computer's final hand: [10, 6, 10], final score: 26
 You went overboard.You lose!
 Do you want to play a game of Blackjack? Type 'y' or 'n': n
 Goodbye
