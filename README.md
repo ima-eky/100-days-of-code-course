@@ -53,5 +53,15 @@ If you are totally new to Github and open source , visit [here.](https://towards
 
 SR No   | Project | Author  
 --- | --- | ---
-1 | [Day-1-](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-1) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
-
+1 | [Day-1-Band Name Generator](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-1) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+2 | [Day-2-Tip Calculator](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-2)      | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+3 | [Day-3-Treasure Island](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-3)     | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+4 | [Day-4-Rock Paper and Scissors](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-4) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+5 | [Day-5-Random Password Generator(Beginner)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-5)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+6 | [Day-6-Fizz Buzz](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-6)  | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+7 | [Day-7-Hangman](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-7)     | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+8 | [Day-8-Cipher Text(Encrypt or decrypt)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-8)|[Ekanem Ima-Abasi](https://github.com/ima-eky)
+10 | [Day-10-Calculator(Beginner)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-10)     | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+11 | [Day-11-BlackJack](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-11)     | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+12 | [Day-12-Guess the Number](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-12) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
+13 |[Day-13- Debugging your Code](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-13)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
