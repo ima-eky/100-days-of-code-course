@@ -70,4 +70,4 @@ SR No   | Project | Author
 16 | [Day-17-Quiz Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-17)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 17 |[Day-18-Hirst Painting](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-18)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 18 |[Day-19-Guess the winner(Car Racing)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-19)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-19 |[Day-20-21 Snake Game(https://github.com/ima-eky/100-days-of-code-course/tree/main/day-20-and-day-21)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+19 |[Day-20-21 Snake Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-20-and-day-21)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
