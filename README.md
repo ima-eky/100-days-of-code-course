@@ -8,7 +8,6 @@ This course aims at improving programming skills and mastering Python by buildin
 These projects are good for you.
 
 If you are totally new to Github and open source, visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
->>>>>>> aabd49db73001a4e909eb3c29cb9ff4bf8dec2d6
 
 ## Steps To Follow
 
