@@ -2,6 +2,8 @@ import  datetime as dt
 import random
 import pandas
 import  smtplib
+my_email = "YOUR EMAIL"
+password = "YOUR PASSWORD"
 
 ##################### Starting Project ######################
 
@@ -17,8 +19,6 @@ for birthdays in list_of_birthdays:
         with open (f"letter_templates/letter_{random.randint(1,3)}.txt") as data:
             content=data.read()
         new_letter=content.replace("[NAME]",birthdays["name"])
-        my_email = "imaabasi00@gmail.com"
-        password = "bqtnphfarsvfwbky"
         with smtplib.SMTP("smtp.gmail.com", port=587) as connection:
             connection.starttls()
             connection.login(user=my_email, password=password)

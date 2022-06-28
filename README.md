@@ -1,9 +1,9 @@
 # 100-days-of-code
 
-This course aims at improving programming skills and mastering Python by building 100 projects in 100 days. The projects cut accross data science, automation, web development, games and apps! Each day's concepts are addressed in order of increasing difficulty.The progression is from beginner to intermediate to advanced.Regardless of your Python skill level, you are at the proper place.
+This course aims at improving programming skills and mastering Python by building 100 projects in 100 days. The projects cut across data science, automation, web development, games and apps! Each day's concepts are addressed in order of increasing difficulty.The progression is from beginner to intermediate to advanced.Regardless of your Python skill level, you are at the proper place.
 These projects are good for you
 
-If you are totally new to Github and open source , visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+If you are totally new to GitHub and open source , visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 ## Steps To Follow
 
@@ -19,7 +19,7 @@ If you are totally new to Github and open source , visit [here.](https://towards
     git clone https://github.com/<your-github-username>/100-days-of-code-course.git
     ```
 
-    **Replace \<your-github-username\> with your specific Github username!**
+    **Replace \<your-github-username\> with your specific GitHub username!**
 
     Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 - Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid any merge conflicts:
@@ -51,7 +51,7 @@ If you are totally new to Github and open source , visit [here.](https://towards
 
 ## Contributors ✨
 
-SR No   | Project | Author  
+SR No   | Project | Author
 --- | --- | ---
 1 | [Day-1-Band Name Generator](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-1) | [Ekanem Ima-Abasi](https://github.com/ima-eky)
 2 | [Day-2-Tip Calculator](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-2)      | [Ekanem Ima-Abasi](https://github.com/ima-eky)
