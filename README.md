@@ -1,9 +1,16 @@
 # 100-days-of-code
 
+<<<<<<< HEAD
 This course aims at improving programming skills and mastering Python by building 100 projects in 100 days. The projects cut across data science, automation, web development, games and apps! Each day's concepts are addressed in order of increasing difficulty.The progression is from beginner to intermediate to advanced.Regardless of your Python skill level, you are at the proper place.
 These projects are good for you
 
 If you are totally new to GitHub and open source , visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+=======
+This course aims at improving programming skills and mastering Python by building 100 projects in 100 days. The projects cut across data science, automation, web development, games and apps! Each day's concepts are addressed in order of increasing difficulty. The progression is from beginner to intermediate to advanced. Regardless of your Python skill level, you are at the proper place.
+These projects are good for you.
+
+If you are totally new to Github and open source, visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+>>>>>>> aabd49db73001a4e909eb3c29cb9ff4bf8dec2d6
 
 ## Steps To Follow
 
@@ -67,5 +74,12 @@ SR No   | Project | Author
 13 | [Day-13- Debugging your Code](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-13)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 14 | [Day-14-Higher or Lower](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-14)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 15 | [Day-15_16-Cofee Machine](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-15_16)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-16 | [Day-17-Quiz Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-17)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-17 |[Day-18-Hirst Painting](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-18)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+17| [Day-17-Quiz Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-17)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+18 |[Day-18-Hirst Painting](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-18)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+19 |[Day-19-Guess the winner(Car Racing)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-19)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+20 |[Day-20-21 Snake Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-20-and-day-21)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+22 |[Day-22 Pong Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-20-and-day-22)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+23 |[Day-23 Turtle Crossing Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-23)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+24 |[Day-24 Mail Merge (letters)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-24)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+25 |[Day-25 Guess the U.S states](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-25)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+26 |[Day-26 Nato Alphabets](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-20-and-day-21)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
