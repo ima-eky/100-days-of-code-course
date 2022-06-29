@@ -11,6 +11,7 @@ If you are totally new to GitHub and open source , visit [here.](https://towards
     <br><img src="https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png" title="Fork image" width="400"/>
 - **Clone** your forked repository to your local machine. This button will show you the URL to run.
     <br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
+    <br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/hirst_painting.png" title="Sample Output"/>
 
     For example, run this command inside your terminal:
 
