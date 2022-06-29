@@ -21,9 +21,9 @@ while (attempts > 0):
             print(f'Too low')
     else:
         attempts = 0
-        print(f'You have guessed the number {random_number} correctly!\nCongratulations')
+        print(f'You have guessed the number {random_number} correctly!\nCongratulations,YOU WIN!')
 else:
-    print(f'You have {attempts} attempts to guess the number.The number wass {random_number}')
+    print(f'You have {attempts} attempts to guess the number.The number was {random_number}')
 
 
 
