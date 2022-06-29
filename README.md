@@ -81,4 +81,6 @@ SR No   | Project | Author
 25 |[Day-25 Guess the U.S states](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-25)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 26 |[Day-26 Nato Alphabets](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-26)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 27 |[Day-27 Miles To Kilometer Converter](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-27)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-
+28 |[Day-28 Pomodoro Timer (Digital Work Stopwatch](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-28)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+29 |[Day-29 Password Manager/Random Password Generator(Intermediate)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-29)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+30 |[Day-30 Handling Exceptions](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-30)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
