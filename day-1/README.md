@@ -18,8 +18,11 @@ Another function used was the `input()` and `title()` function.This project goes
 Python must be installed on your computer. Click [here.](https://www.python.org/downloads/) to install if it is not installed.
 
 ## How to run the script
+Open your terminal
+Navigate to the application directory
+run the script
 
-`python band_game_generator.py`
+`python band_game_generator.py `
 
 ## Output expected
 
