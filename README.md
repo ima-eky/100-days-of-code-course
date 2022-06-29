@@ -79,4 +79,6 @@ SR No   | Project | Author
 23 |[Day-23 Turtle Crossing Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-23)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 24 |[Day-24 Mail Merge (letters)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-24)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 25 |[Day-25 Guess the U.S states](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-25)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-26 |[Day-26 Nato Alphabets](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-20-and-day-21)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+26 |[Day-26 Nato Alphabets](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-26)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+27 |[Day-27 Miles To Kilometer Converter](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-27)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+
