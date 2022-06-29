@@ -1,16 +1,8 @@
 # 100-days-of-code
-
-<<<<<<< HEAD
-This course aims at improving programming skills and mastering Python by building 100 projects in 100 days. The projects cut across data science, automation, web development, games and apps! Each day's concepts are addressed in order of increasing difficulty.The progression is from beginner to intermediate to advanced.Regardless of your Python skill level, you are at the proper place.
-These projects are good for you
-
-If you are totally new to GitHub and open source , visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
-=======
-This course aims at improving programming skills and mastering Python by building 100 projects in 100 days. The projects cut across data science, automation, web development, games and apps! Each day's concepts are addressed in order of increasing difficulty. The progression is from beginner to intermediate to advanced. Regardless of your Python skill level, you are at the proper place.
+This course aims at improving programming skills and mastering Python by building 100 projects in 100 days. The projects cut across data science, automation, web development, games and apps! The principles covered each day are more challenging than the ones before.The progression is from beginner to intermediate to advanced.The days 1 through 14 can be categorized as beginning projects, 15 through 57 as intermediate projects, and 58 through 80 as advanced projects.
+Projects from days 81 to 100 would contribute to the development of your portfolio.Regardless of your Python skill level, you are at the proper place.
 These projects are good for you.
-
-If you are totally new to Github and open source, visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
->>>>>>> aabd49db73001a4e909eb3c29cb9ff4bf8dec2d6
+If you are totally new to GitHub and open source , visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 ## Steps To Follow
 
@@ -82,4 +74,17 @@ SR No   | Project | Author
 23 |[Day-23 Turtle Crossing Game](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-23)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 24 |[Day-24 Mail Merge (letters)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-24)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 25 |[Day-25 Guess the U.S states](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-25)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-26 |[Day-26 Nato Alphabets](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-20-and-day-21)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+26 |[Day-26 Nato Alphabets](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-26)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+27 |[Day-27 Miles To Kilometer Converter](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-27)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+28 |[Day-28 Pomodoro Timer (Digital Work Stopwatch)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-28)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+29 |[Day-29 Password Manager/Random Password Generator(Intermediate)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-29)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+30 |[Day-30 Handling Exceptions](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-30)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+31 |[Day-31 Quizlet Flashy(Learn French using Flash cards)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-31)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+32 |[Day-32 Send Bulk or Automated Emails](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-32)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+33|[Day-33 ISS Overhead Notifier](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-33)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+34|[Day-34 Quiz Game(Intermediate)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-34)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+35|[Day-35 Rain Alert](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-35)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+36|[Day-36 Stock Trading News](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-36)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+37|[Day-37 Habit Tracking](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-37)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+38|[Day-38 Workout Tracking](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-38)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+39|[Day-39 Fetch Cheapest Files Deals ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-39)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
