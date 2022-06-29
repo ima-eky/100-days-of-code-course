@@ -5,3 +5,4 @@ In this script,turtle module is used to draw a [hirst painting](https://i.guim.c
 Python 3
 
 ##  Expected output
+![alt text](http://Users/okone/Pictures/Screenshots/hirst_painting)
