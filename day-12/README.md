@@ -11,6 +11,7 @@ Open your terminal
 Navigate to the project and day's directory
 
 Run the script
+
 `python guess_the_number.py`
 
 ## Ouput Expected
@@ -33,4 +34,5 @@ Too low
 You have 1 attempt to guess the number.
 Guess a number:16
 Too high
+You have 0 attempts to guess the number.The number was 15
 ```
