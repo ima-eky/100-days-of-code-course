@@ -3,7 +3,7 @@ In this script,turtle module is used to draw a [hirst painting](https://i.guim.c
 ## Library used
 - turtle(`import turtle`,to use internal library)
 #### Class used
-- (`from turtle import Turtle,Screen`)
+- `from turtle import Turtle,Screen`
 - Turtle
 - Screen
 
@@ -13,6 +13,12 @@ In this script,turtle module is used to draw a [hirst painting](https://i.guim.c
 Python 3
 
 ## How to run script
+Open your terminal
+
+Navigate to the project and day's directory
+
+Run the script
+
 `python main.py`
 
 ##  Expected output
