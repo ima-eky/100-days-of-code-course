@@ -1,5 +1,6 @@
 # 100-days-of-code
-This course aims at improving programming skills and mastering Python by building 100 projects in 100 days. The projects cut across data science, automation, web development, games and apps! Each day's concepts are addressed in order of increasing difficulty. The progression is from beginner to intermediate to advanced. Regardless of your Python skill level, you are at the proper place.
+This course aims at improving programming skills and mastering Python by building 100 projects in 100 days. The projects cut across data science, automation, web development, games and apps! The principles covered each day are more challenging than the ones before.The progression is from beginner to intermediate to advanced.The days 1 through 14 can be categorized as beginning projects, 15 through 57 as intermediate projects, and 58 through 80 as advanced projects.
+Projects from days 81 to 100 would contribute to the development of your portfolio.Regardless of your Python skill level, you are at the proper place.
 These projects are good for you.
 If you are totally new to GitHub and open source , visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
