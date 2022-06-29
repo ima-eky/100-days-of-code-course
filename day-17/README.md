@@ -1,14 +1,13 @@
 # Quizlet
-In this script,there are 12 questions, and there are only two possible answers: true or false.The player's final score is displayed once all 12 questions have been answered.Since the topic of handling and catching exceptions is not addressed until day 30, the inputs given haVE to be valid
+In this script,there are 12 questions, and there are only two possible answers: true or false.The player's final score is displayed once all 12 questions have been answered.Since the topic of handling and catching exceptions is not addressed until day 30, the inputs given have to be valid
 
 ## Optional task:
-
 ```
-(The questions are hardcoded and you get the same questions everytime 
-you run the script.more questions can be generated from [Open Trivia Database](https://opentdb.com/api_config.php).
-Select category,number of questions you want,difficulty and the type of questions should be boolean(true/false).
+The questions are hardcoded and you get the same questions everytime you run the script.
+More questions can be generated from [Open Trivia Database](https://opentdb.com/api_config.php).
+Select the category,number of questions you want,difficulty and the type of questions should be boolean(true/false).
 After generating API URL,copy it to your brower and copy everything in your browser to your data.py.
-Using your knowledge of dictionaries,figure out how you can modify the main.py and the data.py in order to get the quiz to start working again.) 
+Using your knowledge of dictionaries,figure out how you can modify the main.py and the data.py in order to get the quiz to start working again.
 
 ```
 
