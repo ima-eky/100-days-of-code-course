@@ -7,7 +7,7 @@ The player controls a long, thin creature, resembling a snake, which roams aroun
 #### Class used (from turtle import Turtle,Screen)
 - Turtle
 - Screen
--Other modules in this directory were used(by importing them) in main.py.Read more on [Python Modules](https://www.w3schools.com/python/python_modules.asp)
+- Other modules in this day's directory were used(by importing them) in main.py.Read more on [Python Modules](https://www.w3schools.com/python/python_modules.asp)
 
 
 ## Prerequisites
