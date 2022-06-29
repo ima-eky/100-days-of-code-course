@@ -1,8 +1,25 @@
 # Hirst Painting
 In this script,turtle module is used to draw a [hirst painting](https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2012/1/13/1326458117290/Addictive---detail-of-Dam-007.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=09510319fc3c5aa2dea3e7d3c52ebfcb)
+## Library used
+- turtle(`import turtle`,to use internal library)
+#### Class used
+- `from turtle import Turtle,Screen`
+- Turtle
+- Screen
+
+
 
 ## Prerequisites
 Python 3
 
+## How to run script
+Open your terminal
+
+Navigate to the project and day's directory
+
+Run the script
+
+`python main.py`
+
 ##  Expected output
-![alt text](https://github.com/ima-eky/100-days-of-code-course/day-18/master/hirst_painting.png?raw=true)
+<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/hirst_painting.png" title="Sample Output"/>
