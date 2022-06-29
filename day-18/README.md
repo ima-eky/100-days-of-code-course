@@ -4,5 +4,8 @@ In this script,turtle module is used to draw a [hirst painting](https://i.guim.c
 ## Prerequisites
 Python 3
 
+## How to run script
+`python main.py`
+
 ##  Expected output
-![alt text](https://github.com/ima-eky/100-days-of-code-course/day-18/master/hirst_painting.png?raw=true)
+<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/hirst_painting.png" title="Sample Output"/>
