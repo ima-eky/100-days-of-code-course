@@ -1,0 +1,16 @@
+There's a [Wiki](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)for the frequency list of different
+languages,and it lists most of the common languages.You can go to the language of your choice,for example,if you go to
+French,you can see that there are loads of different lists that people have compiled that list the top, most frequently occurring
+words.
+These frequency lists are compiled by a user called Hermitd and Hermitdis a Hermit Dave
+And he has a [GitHub repository](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018) where he's
+compiled all of the frequency words,and you can see the latest version from 2018.He's got all of the frequency words
+for many languages and it's listed by the language code.You can take words from frequency dictionary or list or anywhere else
+and put it into a Google sheet).
+If you hit equals to start a new formula and you type in Google translate,you can see it expects some
+inputs.First is the piece of text that you want to translate,so you are going to click on this cell and enter it, and
+then it's the source language.So for example,Spanish is ES and French is FR. And then the final input.
+It expects it is the language code that you want to translate it to.
+So in this case, you want to translate it to English. So you are going to use en and close off the parentheses, hit enter.
+Because,it's Excel,you can simply just drag cross all the way down to all of your words. Now,all you have to do is
+simply download it as a CSV and you will be able to work with it very easily.
