@@ -1,5 +1,5 @@
 # Quiz Game(Guess the U.S states)
-A educational and interesting game,which gets you to guess and learn all of the States in the US.The aim of the game is to remember all of the names of the states and to name as many of them as you can (then that name appears on the map at the location of the state.).If player types exit,the game stops and CSV file that contains all of the states that the player missed from all 50 states is generated.
+A educational and interesting game,which gets you to guess and learn all of the States in the US.The aim of the game is to remember all of the names of the states and to name as many of them as you can (then that name appears on the map at the location of the state.).If player types exit,the game stops and a CSV file that contains all of the states that the player missed(or couldn't guess) from all 50 states is generated.
 
 ## Library used
 - turtle(import turtle,to use internal library)
