@@ -3,7 +3,10 @@ Quizzler is a quiz app built by using tkinter and a trivia API.In this script,th
 - Click on green  tick if you want to go for true and click on red button if you think the answer is false
 - The background color of canvas turns red if player is wrong and green if player is right.
 Read on [Python Request Module](https://www.w3schools.com/python/module_requests.asp) to undertsand how requests are made
+
 Read [Open Trivia Database](https://opentdb.com/api_config.php) and check out documentation
+
+You can also read on [escaping html entities](https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string)
 
 ## Library Used
 - tkinter
