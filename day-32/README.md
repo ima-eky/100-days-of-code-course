@@ -23,4 +23,4 @@ Run the script
 - Email gets sent
 - No error when program is sent
 
-<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/send_email.png" title="Sample output of when script is run" width="400"/>
+<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/send_email.png" title="Sample output of when script is run"/>
