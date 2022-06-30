@@ -1,3 +1,4 @@
+# Pong Game
 Pong game is a two-player table tennis-themed video game. The game involves two pads and a moving ball. The players have to move paddles in an upwards or downwards direction and save the ball from getting hit onto the wall. If the ball hits the wall then it’s a score for another player.Added Pong game functionality using Turtle an inbuilt graphic module in Python.The  left player moves upwards by presssing the 'w' key and downwards with 's' key.While the player on the right moves up and down with their respective keys.
 
 ## Library used
