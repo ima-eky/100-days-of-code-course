@@ -12,7 +12,7 @@ This script deals with the conventions for Gmail.com.If you use another email pr
 - Sunset and sunrise API [Documentation](https://sunrise-sunset.org/api)
 - ISS [Current Location](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
 -Read More  on HTTP response status code(https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
--[Python Request Module](https://www.w3schools.com/python/module_requests.asp)
+- [Python Request Module](https://www.w3schools.com/python/module_requests.asp)
 
 ## How to run script
 Open your terminal
