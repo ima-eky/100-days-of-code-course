@@ -1,0 +1,17 @@
+You'll notice that  your code is only going to work if your code is actually running constantly in the background.
+Now you could of course, open up your project , run every single day and make sure that it works,but that's actually more
+effort.So what can you do instead? Well,you want some sort of way where you can host your code in the cloud and run your code every
+single day.
+So one way of doing that is using a service called Python anywhere,and they have a free tier where we can do exactly that
+without having to pay anything. Head over to python anywhere.com and go ahead and sign up for a new account.
+Now, once you've signed up and signed in,then can go ahead and start adding some files.
+Head over to the files tab and  open your project,upload the files you want and  create a new directory if you have other
+files inside directories.
+Go into Your console and create a new bash console and type python3 main.py.Now you might see this error right
+here, the SMTP authentication error.
+And this is something that happens because our Python program is trying to log into our email and google is blocking it.
+Use the link provided to unlock capture (https://accounts.google.com/b/0/DisplayUnlockCaptcha).Going back to your
+Python anywhere dashboard, go to the task section to schedule a task to run. Now to set up a scheduled task,type the same
+command that you did in the console (python3 main.py)
+And then you  going to schedule this at a particular time(the server time is based on UTC).
+With this your python scripts run everyday at a particular time.However,you can only schedule one task to run,
