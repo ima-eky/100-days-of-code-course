@@ -11,7 +11,7 @@ A educational and interesting game,which gets you to guess and learn all of the 
 
 - Other modules in this day's directory were used(by importing them) in main.py.Read more on [Python Modules](https://www.w3schools.com/python/python_modules.asp)
 - Read more on [Python Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
-- [working_with_pandas_and csv_files](https://github.com/ima-eky/100-days-of-code-course/blob/main/day-25/working_with_pandas_and_csv.py)
+- [working_with_pandas_and csv_files](https://github.com/ima-eky/100-days-of-code-course/blob/main/day-25/working_with_pandas_and_csv.py) can be used to aid understanding
 ## Prerequisites
 Python 3
 
