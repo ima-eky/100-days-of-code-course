@@ -5,7 +5,8 @@
  - If the player does not get it right,the card is flipped to the back and the english translation of word is displayed to be reviewed
 
 You can decide to retain old progress anytime you return to this program or start afresh.
-## To add more words/change words/change language,read [Getting words](https://github.com/ima-eky/100-days-of-code-course/blob/main/day-31/getting_more_words)
+## 
+To add more words/change words/change language,read [Getting words](https://github.com/ima-eky/100-days-of-code-course/blob/main/day-31/getting_more_words)
 ## Library Used
 - tkinter
 - pandas
