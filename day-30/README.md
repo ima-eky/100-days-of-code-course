@@ -1,2 +1,6 @@
-# final-day-24
-Mail Merge is a handy feature that incorporates data from text files and allows you to create multiple documents at once, such as letters as was done in this project, saving you the time and effort of retyping the same letter over and over.
+# Catching and Handling Exception
+
+Read on [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)
+
+You can run `handling_errors.py`() to better understand [handling_errors](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-30)
+
