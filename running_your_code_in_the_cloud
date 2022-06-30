@@ -14,4 +14,11 @@ Use the link provided to unlock capture (https://accounts.google.com/b/0/Display
 Python anywhere dashboard, go to the task section to schedule a task to run. Now to set up a scheduled task,type the same
 command that you did in the console (python3 main.py)
 And then you  going to schedule this at a particular time(the server time is based on UTC).
-With this your python scripts run everyday at a particular time.However,you can only schedule one task to run,
+With this your python scripts run everyday at a particular time.However,you can only schedule one task to run.
+Whenever you're uploading your code publicly,always be careful that you strip it of all of the API keys and instead use
+environment variables like to pull it from the environment.
+Environment variables allow us to separate out where we store our keys, our secret stuff,and various other variables away
+from where our code base is located.
+You can create an environment variable by simply typing export and then the name of the variable with no spaces,but
+just a single equal sign.And then store everything that's in between the quotation marks.Read more on how to access
+environment variables here (https://www.pythonanywhere.com/forums/topic/8892/)
