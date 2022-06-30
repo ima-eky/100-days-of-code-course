@@ -1,4 +1,4 @@
-Pong game is a two-player table tennis-themed video game. The game involves two pads and a moving ball. The players have to move paddles in an upwards or downwards direction and save the ball from getting hit onto the wall. If the ball hits the wall then it’s a score for another player.Added Pong game functionality using Turtle an inbuilt graphic module in Python
+Pong game is a two-player table tennis-themed video game. The game involves two pads and a moving ball. The players have to move paddles in an upwards or downwards direction and save the ball from getting hit onto the wall. If the ball hits the wall then it’s a score for another player.Added Pong game functionality using Turtle an inbuilt graphic module in Python.The  left player moves upwards by presssing the 'w' key and downwards with 's' key.While the player on the right moves up and down with their respective keys.
 
 ## Library used
 - turtle(import turtle,to use internal library)
@@ -23,4 +23,4 @@ Run the script
 `python main.py`
 
 ## Output Expected
-#<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/snake_game.png" title="Sample Output"/>
+
