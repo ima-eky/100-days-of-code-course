@@ -7,7 +7,7 @@ Pong game is a two-player table tennis-themed video game. The game involves two 
 - Turtle
 - Screen
 - Other modules in this day's directory were used(by importing them) in main.py.Read more on [Python Modules](https://www.w3schools.com/python/python_modules.asp)
--Read more on [Python Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
+- Read more on [Python Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
 
 
 ## Prerequisites
