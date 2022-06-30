@@ -8,7 +8,7 @@ def miles_to_km():
 
 window=Tk()
 window.title("Mile to Km Converter")
-window.config(padx=15,pady=15)
+window.config(padx=35,pady=35,height=30,width=300)
 
 #label
 miles_label=Label(text="Miles")
