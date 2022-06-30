@@ -25,4 +25,4 @@ Run the script
 ## Output expected
 - Email gets sent
 - No error when program is sent
-https://www.w3schools.com/python/module_requests.asp<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/iss_notifier.png" title="Sample output of when script is run">
+<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/iss_notifier.png" title="Sample output of when script is run">
