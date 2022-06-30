@@ -32,22 +32,33 @@ def save():
     }
     if len(website_name) == 0 or len(password) == 0 or len(email_or_username)==0:
         messagebox.showinfo(title="Oops",message="Please don't leave any of the fields empty")
+    if "@" not in email_or_username:
+        messagebox.showinfo(title="Oops",message="Please enter a valid email")
+        email_or_username_entry.delete(0,END)
+
     else:
-        try:
-            with open ("data.json","r") as data_file:
-                # reading old data
-                data=json.load(data_file)
-                # updating old data with new data
-        except FileNotFoundError:
-            with open ("data.json","w") as data_file:
-                json.dump(new_content,data_file,indent=4)
-        else:
-            data.update(new_content)
-            with open("data.json","w") as data_file:
-                json.dump(data,data_file,indent=4)
-        finally:
-            website_entry.delete(0, END)
-            password_entry.delete(0, END)
+        if "@" in email_or_username and len(email_or_username) < 14 :
+            valid_email=messagebox.askyesno(title="Oops", message="Are you sure email entered is correct")
+            while not valid_email:
+                email_or_username_entry.delete(0,END)
+                break
+            else:
+
+                try:
+                    with open ("data.json","r") as data_file:
+                        # reading old data
+                        data=json.load(data_file)
+                        # updating old data with new data
+                except FileNotFoundError:
+                    with open ("data.json","w") as data_file:
+                        json.dump(new_content,data_file,indent=4)
+                else:
+                    data.update(new_content)
+                    with open("data.json","w") as data_file:
+                        json.dump(data,data_file,indent=4)
+                finally:
+                    website_entry.delete(0, END)
+                    password_entry.delete(0, END)
 # ----------------------------FIND PASSWORD-------------#
 def find_password():
     website_name = website_entry.get()
