@@ -77,7 +77,7 @@ SR No   | Project | Author
 26 |[Day-26 Nato Alphabets](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-26)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 27 |[Day-27 Miles To Kilometer Converter](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-27/miles_to_km-converter)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 28 |[Day-28 Pomodoro Timer (Digital Work Stopwatch)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-28)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-29 |[Day-29 Password Manager/Random Password Generator(Intermediate)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-29)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+29 |[Day-29 Password Manager/Random Password Generator(Intermediate)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-29/password-manager-start)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 30 |[Day-30 Handling Exceptions](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-30)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 31 |[Day-31 Quizlet Flashy(Learn French using Flash cards)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-31)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 32 |[Day-32 Send Bulk or Automated Emails](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-32)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
