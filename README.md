@@ -82,7 +82,7 @@ SR No   | Project | Author
 31 |[Day-31 Quizlet Flashy(Learn French using Flash cards)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-31)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 32 |[Day-32 Send Bulk or Automated Emails](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-32)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 33|[Day-33 ISS Overhead Notifier](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-33)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-34|[Day-34 Quiz Game(Intermediate)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-34)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+34|[Day-34 Quiz Game(Intermediate)](https://github.com/ima-eky/100-days-of-code-course/tree/main/Day-34)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 35|[Day-35 Rain Alert](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-35)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 36|[Day-36 Stock Trading News](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-36)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 37|[Day-37 Habit Tracking](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-37)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
