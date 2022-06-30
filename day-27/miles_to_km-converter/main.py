@@ -1,10 +1,15 @@
 from tkinter import *
+from tkinter import  messagebox
 
 def miles_to_km():
     number_in_miles=miles_input.get()
-    number_in_km=float(number_in_miles) * 1.60934
-    rounded_number=round(number_in_km,2)
-    miles_to_kilo_label.config(text=f"{rounded_number}")
+    if number_in_miles.isdigit():
+        number_in_km=float(number_in_miles) * 1.60934
+        rounded_number=round(number_in_km,2)
+        miles_to_kilo_label.config(text=f"{rounded_number}")
+    else:
+        miles_input.delete(0,END)
+        messagebox.showinfo(title="Oops",message="Invalid Input\nInput given must be only numbers")
 
 window=Tk()
 window.title("Mile to Km Converter")
