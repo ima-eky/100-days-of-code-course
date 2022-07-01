@@ -1,2 +1,4 @@
-# final-day-24
-Mail Merge is a handy feature that incorporates data from text files and allows you to create multiple documents at once, such as letters as was done in this project, saving you the time and effort of retyping the same letter over and over.
+# STOCK TRADING NEWS
+ A stock news monitoring project that monitors a particular stock(Tesla,for example) and there's huge fluctuations experienced, you would get sent the relevant pieces of news to help you decide and figure out what you should do with your trades.
+ - Daily stock prices [news](https://www.alphavantage.co/documentation/#daily)
+ - News API[](https://newsapi.org/ )
