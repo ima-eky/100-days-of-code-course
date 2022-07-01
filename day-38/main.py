@@ -2,12 +2,12 @@ from datetime import datetime
 
 
 import requests
-GENDER="female"
-WEIGHT_KG = 56
-HEIGHT_CM = 12
-AGE = 18
-APP_ID="8a279f4c"
-API_KEY="c6cf8ce50d64c5935c3c45efa0764027"
+GENDER= "YOUR GENDER"
+WEIGHT_KG = "YOUR WEIGHT"
+HEIGHT_CM = "YOUR HEIGHT"
+AGE = "YOUR AGE"
+APP_ID="YOUR APP ID"
+API_KEY="YOUR API_KEY"
 headers={
     "x-app-id":APP_ID,
     "x-app-key":API_KEY,
@@ -31,7 +31,6 @@ result = response.json()
 ######################
 today_date = datetime.now().strftime("%d%m%Y")
 now_time=datetime.now().strftime("%X")
-print(result)
 for exercise in result["exercises"]:
     sheet_inputs ={
             "workout": {

@@ -49,6 +49,6 @@ new_pixel_data= {
 # response=requests.put(url=update_pixel, json=new_pixel_data, headers=headers)
 # print(response.text)
 
-delete_endpoint=update_pixel
+delete_endpoint=update_endpoint
 # response=requests.delete(url=delete_endpoint,headers=headers)
 # print(response.text)
