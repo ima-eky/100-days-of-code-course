@@ -23,3 +23,4 @@ Run the script
 
 `python main.py`
 
+<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/rain_alert.jpeg" title="Sample"/>
