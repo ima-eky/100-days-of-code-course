@@ -2,8 +2,8 @@
 This script,uses an API called Pixela.It allows you to track your habits,shows which days you've done your habit, which days you haven't and also shows the intensity.
 - Requests Module [Documentation](https://requests.readthedocs.io/en/latest/api/)
 - Pixela Api [Documentation](https://docs.pixe.la/)
-- Pixela Website[(https://pixe.la/)]
-- Python Datetime[(https://www.w3schools.com/python/python_datetime.asp)]
+- Pixela [Website](https://pixe.la/)
+- Python [Datetime](https://www.w3schools.com/python/python_datetime.asp)
 
 ## Library used
 - requests(Run `python -m pip install requests` to install requests,then `import requests`in your code)
