@@ -16,7 +16,7 @@ TWILIO_SID = "YOUR TWILIO ACCOUNT SID"
 TWILIO_AUTH_TOKEN = "YOUR TWILIO AUTH TOKEN"
 
 ## STEP 1: Use https://www.alphavantage.co/documentation/#daily
-# When stock price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
+# When stock price increase/decreases by 5% between yesterday and the day before yesterday,get news
 
 #Get yesterday's closing stock price
 PARAMETERS = {
@@ -50,10 +50,9 @@ diff_percent = round((difference / float(yesterday_closing_price)) * 100)
 print(diff_percent)
 
 
-    ## STEP 2: Instead of printing ("Get News"), actually get the first 3 news pieces for the COMPANY_NAME.
 
-#Instead of printing ("Get News"), use the News API to get articles related to the COMPANY_NAME.
-#If difference percentage is greater than 5 then print("Get News").
+#use the News API to get articles related to the COMPANY_NAME.
+
 if abs(diff_percent) > 5:
     news_params = {
         "apiKey": NEWS_API_KEY,
@@ -67,7 +66,6 @@ if abs(diff_percent) > 5:
     three_articles = articles[:3]
     print(three_articles)
 
-    ## STEP 3: Use Twilio to send a seperate message with each article's title and description to your phone number.
 
     #Create a new list of the first 3 article's headline and description using list comprehension.
     formatted_articles = [f"{STOCK_NAME}: {up_down}{diff_percent}%\nHeadline: {article['title']}. \nBrief: {article['description']}" for article in three_articles]
@@ -75,7 +73,7 @@ if abs(diff_percent) > 5:
     #Send each article as a separate message via Twilio.
     client = Client(TWILIO_SID, TWILIO_AUTH_TOKEN)
 
-    #TODO 8. - Send each article as a separate message via Twilio.
+    #Send each article as a separate message via Twilio.
     for article in formatted_articles:
         message = client.messages.create(
             body=article,
