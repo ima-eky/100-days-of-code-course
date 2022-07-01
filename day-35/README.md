@@ -13,7 +13,7 @@ Read on [Running your code in the cloud](https://github.com/ima-eky/100-days-of-
 How to get Twilio work on [Python everywhere](https://help.pythonanywhere.com/pages/TwilioBehindTheProxy/)
 
 ## Library used
-- requests(Run `pip -m pip install requests` to install requests,then `import requests`in your code)
+- requests(Run `python -m pip install requests` to install requests,then `import requests`in your code)
  ### How to run script
 Open your terminal
 
