@@ -3,11 +3,11 @@
  - Daily stock prices [news](https://www.alphavantage.co/documentation/#daily)
  - Stock [API](https://www.alphavantage.co/)
  - News [API](https://newsapi.org/ )
- - Sign up for [Twilio](https://www.twilio.com/try-twilio) to be able to send SMS with your account S-ID and auth token/You don't have to sign up if you are going to send yourself an email.(Go back to day-32 if you need help sending yourself an email)
+ - Sign up for [Twilio](https://www.twilio.com/try-twilio) to be able to send SMS with your account S-ID and auth token/You don't have to sign up if you are going to send yourself an email.(Refer back to day-32 if you need help sending yourself an email)
 - SMS python [documentation](https://www.twilio.com/docs/sms/quickstart/python) using Twilio
 
 How to get Twilio work on [Python everywhere](https://help.pythonanywhere.com/pages/TwilioBehindTheProxy/)
-You can send yourself an email instead(refer back to day-32 if you need guidance)
+
  
 ## Library used
 - requests(Run `python -m pip install requests` to install requests,then `import requests`in your code)
