@@ -18,5 +18,6 @@ Run the script
 
 
 ### Output expected
+How many kilometers did you cycle today?:29
 <br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/habit_tracker.png" title="SAMPLE" >
 
