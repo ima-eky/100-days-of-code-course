@@ -5,6 +5,8 @@ Quizzler is a quiz app built by using tkinter and a trivia API.In this script,th
 - 
 Read on [Python Request Module](https://www.w3schools.com/python/module_requests.asp) to undertsand how requests are made
 
+(Run `pip -m install requests` to install requests,then `import requests`in your code)
+
 Read [Open Trivia Database](https://opentdb.com/api_config.php) and check out documentation
 
 You can also read on [escaping html entities](https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string)
