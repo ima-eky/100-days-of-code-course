@@ -87,4 +87,4 @@ SR No   | Project | Author
 36|[Day-36 Stock Trading News](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-36)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 37|[Day-37 Habit Tracking](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-37)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 38|[Day-38 Workout Tracking](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-38)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-39|[Day-39 Fetch Cheapest Files Deals ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-39)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+39|[Day-39-40 Web Foundation(Personal Website with HTML) ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-39-40)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
