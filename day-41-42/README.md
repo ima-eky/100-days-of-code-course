@@ -1,4 +1,4 @@
-# My Personal Site with HTML(intermediate)
+# My Personal Site with HTML(Intermediate)
 This script constructs a website from scratch and a contact form using HTML elements only(so there's limitation in terms of how you can style the website and the kind of website you can make).
 
 and also create basic layouts in your webpage using HTML tables.
