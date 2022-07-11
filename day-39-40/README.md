@@ -7,7 +7,7 @@ Any browser of your choice (Recommended:Chrome) to run script.Click [here](https
 
 ## How to run script
 - Navigate to the project and day's directory
-- Double click on the file named`index`(index.html) to run
+- Double click on the file named `index`(index.html) to run
 
 ### Output expected
 - Your personal site
