@@ -87,12 +87,9 @@ SR No   | Project | Author
 36|[Day-36 Stock Trading News](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-36)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 37|[Day-37 Habit Tracking](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-37)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 38|[Day-38 Workout Tracking](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-38)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-39|[Day-39-40 Web Foundation(Personal Website with HTML) ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-39-40)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+39|[Day-39-40 Web Foundation(Personal Website with HTML)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-39-40)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 41|[Day-41-42 Web Foundation(Personal Website with HTML/Debugging ) ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-41-42)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 43|[Day-43-44 Web Foundation(Personal Website with HTML and CSS)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-43-44)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-45|[Day-45 Fetch 100 Best Movies Of All Time (Empire's) ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-45)| [Ekanem Ima-Abasi]
-(https://github.com/ima-eky)
-46|[Day-46 BillBoard Hot 100 to spotify](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-46)| [Ekanem Ima-Abasi]
-(https://github.com/ima-eky)
-47|[Day-47 Product Tracker(on Amazon)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-47)| [Ekanem Ima-Abasi]
-(https://github.com/ima-eky)
+45|[Day-45 Fetch 100 Best Movies Of All Time (Empire's)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-45)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+46|[Day-46 BillBoard Hot 100 to spotify](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-46)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+47|[Day-47 Product Tracker(on Amazon)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-47)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
