@@ -1,23 +1,13 @@
-# Habit Tracker
-This script,uses an API called Pixela.It allows you to track your habits,shows which days you've done your habit, which days you haven't and also shows the intensity.
-- Requests Module [Documentation](https://requests.readthedocs.io/en/latest/api/)
-- Pixela Api [Documentation](https://docs.pixe.la/)
-- Pixela [Website](https://pixe.la/)
-- Python [Datetime](https://www.w3schools.com/python/python_datetime.asp)
+# My Personal Site/CV(with HTML and CSS)
+This script constructs a website that looks like a professional web designer's personal site ,less similar with what was achieved in the previous days,with a beautiful interface and a few brief notes about what you can do and how people can contact you
 
-## Library used
-- requests(Run `python -m pip install requests` to install requests,then `import requests`in your code)
- ### How to run script
-Open your terminal
+## Prequisites
+Any browser of your choice (Recommended:Chrome) to run script.Click [here](https://www.google.com/chrome/?brand=GGRF&utm_source=google.com&utm_medium=material-callout&utm_campaign=cws&utm_keyword=GGRF) to download Google Chrome
 
-Navigate to the project and day's directory
 
-Run the script
-
-`python main.py`
-
+## How to run script
+- Navigate to the project and day's directory
+- Double click on the file named `index` (index.html) to run
 
 ### Output expected
-How many kilometers did you cycle today?:29
-<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/habit_tracker.png" title="SAMPLE" >
-
+- Your personal site/CV
