@@ -2,8 +2,10 @@ import  datetime as dt
 import random
 import pandas
 import  smtplib
-my_email = "YOUR EMAIL"
-password = "YOUR PASSWORD"
+from settings import MY_EMAIL, MY_PASSWORD
+
+my_email = MY_EMAIL
+password = MY_PASSWORD
 
 ##################### Starting Project ######################
 
