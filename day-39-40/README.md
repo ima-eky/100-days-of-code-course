@@ -10,4 +10,4 @@ Any broswer of your choice (Recommended:Chrome) to run script.Click [here](https
 - Double click on script to run
 
 ### Output expected
-<br><img src="https://img-c.udemycdn.com/redactor/raw/2020-08-17_14-08-04-021aa55beed277eacd92f7713287272e.png" title="Sample output of when script is run"/>
+- Your personal site
