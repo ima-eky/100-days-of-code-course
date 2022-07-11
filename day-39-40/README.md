@@ -11,4 +11,3 @@ Any browser of your choice (Recommended:Chrome) to run script.Click [here](https
 
 ### Output expected
 - Your personal site
-- Better layout achieved than the previous day
