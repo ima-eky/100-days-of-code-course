@@ -24,3 +24,11 @@ Run the script
 - No error when program is sent
 
 <br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/send_email.png" title="Sample output of when script is run"/>
+
+## Test Video embed
+
+
+
+https://user-images.githubusercontent.com/101071076/178375493-1a7f344f-080f-4c3e-afab-be8277e7c02a.mp4
+
+
