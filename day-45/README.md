@@ -6,6 +6,8 @@ This script retrieves the names of the greatest 100 Empire's movies from a given
 - requests
 ###
 Navigate to the project and day's directory and ` pip install -r modules_required.txt` to install
+- [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
    
 ### How to run the script
 Navigate to the project and day's directory
