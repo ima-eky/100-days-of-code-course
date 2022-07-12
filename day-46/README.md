@@ -19,3 +19,6 @@ Navigate to the project and day's directory
 Run the script
 
 `python main.py`
+
+### Output Expected 
+ <br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/billboard_to_spotify.png" title="Sample" width="700"/>
