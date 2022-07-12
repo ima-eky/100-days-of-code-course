@@ -7,7 +7,7 @@ Find a product on Amazon that you want to track (get the product URL) and this s
 ## Required Modules
 - BeautifulSoup4
 - requests
-- smtplib
+- smtplib (import smtplip)
 ###
 Navigate to the project and day's directory and ` pip install -r modules_required.txt` to install
 
