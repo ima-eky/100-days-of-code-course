@@ -1,23 +1,20 @@
-# Habit Tracker
-This script,uses an API called Pixela.It allows you to track your habits,shows which days you've done your habit, which days you haven't and also shows the intensity.
-- Requests Module [Documentation](https://requests.readthedocs.io/en/latest/api/)
-- Pixela Api [Documentation](https://docs.pixe.la/)
-- Pixela [Website](https://pixe.la/)
-- Python [Datetime](https://www.w3schools.com/python/python_datetime.asp)
+# Product Tracker
+Find a product on Amazon that you want to track (get the product URL) and this script sends you an email if price of product equals or is less than  the amount you are willing to pay for the product(target price).
+- [Browser Header](http://myhttpheader.com/)
+- - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+-  You might  need to import lxml  and install  module.
+## Required Modules
+- BeautifulSoup4
+- requests
+- smtplib
+###
+Navigate to the project and day's directory and ` pip install -r modules_required.txt` to install
 
-## Library used
-- requests(Run `python -m pip install requests` to install requests,then `import requests`in your code)
- ### How to run script
-Open your terminal
-
+   
+### How to run the script
 Navigate to the project and day's directory
 
 Run the script
 
 `python main.py`
-
-
-### Output expected
-How many kilometers did you cycle today?:29
-<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/habit_tracker.png" title="SAMPLE" >
 
