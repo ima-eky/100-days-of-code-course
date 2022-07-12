@@ -1,23 +1,22 @@
-# Habit Tracker
-This script,uses an API called Pixela.It allows you to track your habits,shows which days you've done your habit, which days you haven't and also shows the intensity.
-- Requests Module [Documentation](https://requests.readthedocs.io/en/latest/api/)
-- Pixela Api [Documentation](https://docs.pixe.la/)
-- Pixela [Website](https://pixe.la/)
-- Python [Datetime](https://www.w3schools.com/python/python_datetime.asp)
+# Billboard to Spotify
+Takes top 100 music from date in the past to create a spotify playlist
+- Sign up for a free account[on spotify](https://open.spotify.com/) if you don't have.Go ahead and create a new app using Spotify for Developers(https://developer.spotify.com/dashboard/login).
 
-## Library used
-- requests(Run `python -m pip install requests` to install requests,then `import requests`in your code)
- ### How to run script
-Open your terminal
+- [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+Spotipy [Documentation](https://spotipy.readthedocs.io/en/master/)
+## Required Modules
+- BeautifulSoup4
+- requests
+- spotipy
+###
+
+Navigate to the project and day's directory and ` pip install -r modules_required.txt` to install
+
+   
+### How to run the script
 Navigate to the project and day's directory
 
 Run the script
 
 `python main.py`
-
-
-### Output expected
-How many kilometers did you cycle today?:29
-<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/habit_tracker.png" title="SAMPLE" >
-
