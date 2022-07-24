@@ -5,7 +5,6 @@ def speed_calc_decorator(function):
     def wrapper_function():
         function()
         end_time = time.time()
-        print(f"{function.__name__} run speed: {end_time - start_time}s")
     return wrapper_function
 
 
