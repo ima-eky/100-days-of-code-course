@@ -25,3 +25,5 @@ if float(product_price) <= BUY_PRICE:
         connection.login(user=my_email,password=password)
         connection.sendmail(from_addr=my_email,to_addrs="RECIPIENT EMAIL/YOUR EMAIL",msg=f"Subject:Amazon Price Alert\n\n"
                                                                                       f"{message}\n{URL}")
+
+
