@@ -14,4 +14,4 @@ A website for Dogs developed using HTML, CSS and Bootstrap (Only Frontend,This i
 - (You can also run [tindog ,without bootstrap](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-57-58/tindog-without-bootstrap) the same way,to understand how powerful features of bootstrap are and how it's implementation made tindog different.)
   
 ### Output Expected
-  <br><img src="<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/quiz_game.png" title="Sample output of when script is run" width="400"/>" title="Sample output of when script is run" />
+<br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/day-57-58/tindog.png" title="Sample output of when script is run" width="400"/>" title="Sample output of when script is run" />
