@@ -11,6 +11,7 @@ Download [here](https://startbootstrap.com/theme/clean-blog) to use template or 
 - Install requirements `pip install -r requirements.txt`
 
 ### How to run script/development server
+- Navigate to project/day's directory
 - export FLASK_APP=server.py (if you use windows,use set instead of export)
 - To enable development features,export the FLASK_ENV environment variable and set it to development (export FLASK_ENV=development) before running the server.
 - python3 server.py
