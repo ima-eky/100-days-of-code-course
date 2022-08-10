@@ -16,9 +16,5 @@ Download [here](https://startbootstrap.com/theme/clean-blog) to use template or 
 - python3 server.py
 - or flask run
 
-    <br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/quiz_game.png" title="Sample output of when script is run" width="400"/>
-
 ### Output expected
-    <img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/blog.png" title="Sample image" width="400"/>
-    <img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
-    <br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/quiz_game.png" title="Sample output of when script is run" width="400"/>
+<img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/blog.png" title="Sample image" width="400"/
