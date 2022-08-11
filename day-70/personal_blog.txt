@@ -1,0 +1,112 @@
+
+
+# Deploying Your Web Application with Heroku
+
+2
+
+## Publishing Flask website onto the Internet
+
+3
+
+- Sign up for a free account on [https://dashboard.heroku.com](https://dashboard.heroku.com)
+
+4
+
+- Create a new application on Heroku (Leave the region as US )
+
+5
+
+- Connect Heroku to your GitHub project. Under the Deploy tab, select Connect to GitHub
+
+6
+
+- Sign in to your GitHub account where your blog project repository exists.
+
+7
+
+- Click on Enable Automatic Deploys,scrolling further down the page on the deploy pane
+
+8
+
+- On manual deploys, click on Deploy Branch to deploy for the first time.
+
+9
+
+- Click View to see your web app(it wouldn't work yet)
+
+10
+
+  ##### Output expected
+
+11
+
+​
+
+12
+
+![deploying_flask](https://user-images.githubusercontent.com/101118595/184251346-d95a792c-7516-41df-99f9-11b4a1dbeb7f.png)
+
+13
+
+​
+
+14
+
+- You need to install [gunicorn](https://docs.gunicorn.org/en/stable/install.html)
+
+15
+
+- Add the newly installed package to the requirements.txt file on a new line (gunicorn==<version number>)
+
+16
+
+- Create a new file in the project top-level folder called Procfile ( and type `web: gunicorn main:app` in file)
+
+17
+
+- Click View app to see your web app(it should work now)
+
+18
+
+###  Upgrade SQLite Database to PostgreSQL
+
+19
+
+- Go to your app's dashboard on Heroku and go to the Resources tab. Then search for Heroku Postgres.
+
+20
+
+- Next, you will see a popup, keep the free-tier and click Submit. 
+
+21
+
+- Go to Settings -> Reveal Config Vars
+
+22
+
+- To connect Postgres Database to app,Update the app config to use "DATABASE_URL" environment variable if provided (for example,os.environ.get("DATABASE_URL",  "sqlite:///blog.db"))
+
+23
+
+- SQLite is pre-installed for all Python projects but Postgres isn't installed.You'll need to install [https://pypi.org/project/psycopg2-binary/](https://pypi.org/project/psycopg2-binary/) and add new package to requirements.txt
+
+24
+
+  
+
+25
+
+  ### 0utput Expected
+
+26
+
+  
+
+27
+
+  
+
+28
+
+![web_blog](https://user-images.githubusercontent.com/101118595/184256004-21125988-9dc7-4e41-a290-1c7e053bb358.png)
+
