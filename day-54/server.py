@@ -10,8 +10,9 @@ app=Flask(__name__)
 #home route
 @app.route("/")
 def game_info():
+
     return '<h1>Guess a number between 0 and 9</h1>' \
-           '<img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Guess!">'
+           '<img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Guess!">' \
 
 
 random_number=generate_random_number()
@@ -29,8 +30,8 @@ def check_guess(number):
     else:
         random_number = generate_random_number()
         return '<h1 style="color:blue">You found me 😁!</h1>' \
-               '<img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" alt="Correct!">'
-
+               '<img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" alt="Correct!">' \
+               '<h1 style="color:blue">You can return to the <a href="/">home page</a> to try again</h1>' \
 
 
 
