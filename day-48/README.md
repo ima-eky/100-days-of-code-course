@@ -1,7 +1,7 @@
 # Automation Sign up
 - Our code uses Selenium tool (that allows us to automate the browser depending on what we have in our code) to automatically sign up for a newsletter.
 - The newsletter used in this script is not a real newsletter that collects valid data.You don't need to type in your real email in the code.This project
- just tests your skills on selenium.
+ just tests your skills on selenium.[Here](https://www.appbrewery.co/p/the-complete-web-development-course) is the link to the course where the newsletter webpage was built
  - However,if you want to sign up for the actual newsletter.You can do that [here](https://www.appbrewery.co/p/newsletter)
  
  
