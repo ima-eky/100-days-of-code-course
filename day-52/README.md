@@ -19,4 +19,5 @@ Run the script
 
 ### Output Expected 
 
+
 https://github.com/ima-eky/100-days-of-code-course/blob/main/img/data_entry_automation.mp4
