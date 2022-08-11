@@ -21,5 +21,5 @@ Run the script
 `python main.py`
 
 ### Output Expected 
- <br><img src=" https://user-images.githubusercontent.com/101071076/178375493-1a7f344f-080f-4c3e-afab-be827" title="Sample" width="400"/>
+ <br><img src= https://user-images.githubusercontent.com/101071076/178375493-1a7f344f-080f-4c3e-afab-be827 title="Sample" width="400"/>
   https://user-images.githubusercontent.com/101071076/178375493-1a7f344f-080f-4c3e-afab-be8277e7c02a.mp4
