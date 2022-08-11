@@ -22,11 +22,4 @@ Run the script
 
 ### Output Expected 
 
-! [here](https://user-images.githubusercontent.com/101071076/178375493-1a7f344f-080f-4c3e-afab-be8277e7c02a.mp4)
-
-
-## Test Video embed
-
-
-
-https://user-images.githubusercontent.com/101071076/178375493-1a7f344f-080f-4c3e-afab-be8277e7c02a.mp4
+ <br><img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/billboard_to_spotify.png" title="Sample" width="700"/>
