@@ -14,5 +14,5 @@ Jinja is a templating language built for Python,and it allows you create the gen
 - or flask run
 
 ### Output expected
-<img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/name_card.png" title="Sample image" />
+<img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/simple_blog.png" title="Sample image" />
 
