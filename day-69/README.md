@@ -1,5 +1,5 @@
 # Adding Users to Blog
-- The most important component of a website is having users.In this script, user  authentication is implemented in our blog (from previous day(s)) in order for blog to have users that can  register/log in and make  comments on blog posts.
+- The most important component of a website is having users.In this script, user  authentication is implemented in our blog (from day-67) in order for blog to have users that can  register/log in and make  comments on blog posts.
 
 ### Prerequesites
 - Install requirements `pip install -r requirements.txt`
