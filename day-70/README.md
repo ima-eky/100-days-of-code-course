@@ -11,7 +11,7 @@
 
 ![deploying_flask](https://user-images.githubusercontent.com/101118595/184251346-d95a792c-7516-41df-99f9-11b4a1dbeb7f.png)
 
--You need to install [gunicorn](https://docs.gunicorn.org/en/stable/install.html)
+- You need to install [gunicorn](https://docs.gunicorn.org/en/stable/install.html)
 - Add the newly installed package to the requirements.txt file on a new line (gunicorn==<version number>)
 - Create a new file in the project top-level folder called Procfile ( and type `web: gunicorn main:app` in file)
 - Click View app to see your web app(it should work now)
@@ -20,4 +20,9 @@
 - Next, you will see a popup, keep the free-tier and click Submit. 
 - Go to Settings -> Reveal Config Vars
 - To connect Postgres Database to app,Update the app config to use "DATABASE_URL" environment variable if provided (for example,os.environ.get("DATABASE_URL",  "sqlite:///blog.db"))
-- SQLite is pre-installed for all Python projects but Postgres isn't installed.You'll need to install[https://pypi.org/project/psycopg2-binary/](https://pypi.org/project/psycopg2-binary/) and add new package to requirements.txt
+- SQLite is pre-installed for all Python projects but Postgres isn't installed.You'll need to install [https://pypi.org/project/psycopg2-binary/](https://pypi.org/project/psycopg2-binary/) and add new package to requirements.txt
+  
+  ### 0utput Expected
+  
+  
+![deployed_blog](https://user-images.githubusercontent.com/101118595/184255902-4ae2c218-709d-4f20-a784-cce88a9f8178.png)
