@@ -3,6 +3,7 @@
 To have users and associate data to user accounts, we need a way to register them and allow them to sign back into their accounts at a later date.
 In this script, user  authentication is implemented which figures out how to register, login and logout users with email and password. So they can access
 their own private profile pages.
+- For more on [Hashing Passwords using Werkzeug](https://werkzeug.palletsprojects.com/en/1.0.x/utils/#module-werkzeug.security),[Authenticating Users with Flask-Login](https://flask-login.readthedocs.io/en/latest/) , [Flask Flash Messages](https://flask.palletsprojects.com/en/1.1.x/patterns/flashing/),[Passing Authentication Status to Templates](https://flask.palletsprojects.com/en/1.1.x/patterns/templateinheritance/)
 
 ### Prerequesites
 - Install requirements `pip install -r requirements.txt`
