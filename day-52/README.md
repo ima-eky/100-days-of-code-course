@@ -25,10 +25,5 @@ Run the script
 
 
 
-https://github.com/ima-eky/100-days-of-code-course/blob/main/img/data_entry_automation.mp4
+https://user-images.githubusercontent.com/101118595/184098539-7e847172-442b-4fc7-ac34-0276e6511b78.mp4
 
-## Test Video embed
-
-
-
-https://user-images.githubusercontent.com/101071076/178375493-1a7f344f-080f-4c3e-afab-be8277e7c02a.mp4
