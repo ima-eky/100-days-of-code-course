@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 
 chrome_driver_path=Service("C:/Development/chromedriver_win32/chromedriver.exe")
 driver=webdriver.Chrome(service=chrome_driver_path)
-url="http://secure-retreat-92358.herokuapp.com/"
+url="https://secure-retreat-92358.herokuapp.com/"
 driver.get(url)
 first_name=driver.find_element(By.NAME,"fName")
 last_name=driver.find_element(By.NAME,"lName")

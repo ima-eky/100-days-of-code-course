@@ -6,7 +6,7 @@ import time
 
 chrome_driver_path=Service("C:/Development/chromedriver_win32/chromedriver.exe")
 driver=webdriver.Chrome(service=chrome_driver_path)
-url="http://orteil.dashnet.org/experiments/cookie/"
+url="https://orteil.dashnet.org/experiments/cookie/"
 driver.get(url)
 
 upgrade_purchase=driver.find_elements(By.CSS_SELECTOR,"#store b")

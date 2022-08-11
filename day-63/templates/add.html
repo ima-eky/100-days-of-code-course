@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Book</title>
+</head>
+<body>
+    {% if exists: %}
+    <h3 style="color: red;">This book is already in your library.</h3>
+    {% endif %}
+
+    {% if wrong_input: %}
+    <h3 style="color:blue;">Wrong Inputs.Fill in all fields,correctly</h3>
+    {% endif %}
+
+    <form action="{{ url_for('add') }}" method="POST">
+        <label>Book Name</label>
+        <input name="title" type="text">
+        <label>Book Author</label>
+        <input type="text" name="author">
+        <label>Rating</label>
+        <input type="text" name="rating">
+        <button type="submit">Add Book</button>
+    </form>
+</body>
+</html>
