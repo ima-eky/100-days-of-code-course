@@ -1,6 +1,7 @@
 # Personal Blog (templating with jinja)
 A simple blog with a number of blog posts.
 Jinja is a templating language built for Python,and it allows you create the general layout of your blog.For example,if you had a blog and you wanted to have several different posts in the blog, you don't need to create a separate HTML file for each blog post using jinja.
+- You can find a link to the jinja documentation [here](https://jinja.palletsprojects.com/en/3.1.x/)
 
 ### Prerequesites
 - Install requirements `pip install -r requirements.txt`
