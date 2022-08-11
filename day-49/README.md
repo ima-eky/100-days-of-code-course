@@ -3,7 +3,7 @@
 - Selenium WebDriver is one of the most well-known automation and testing tools for web developers.It allows you to automate the browser,get the browser to do 
 things automatically depending on the script written.This script uses selenium to play a web-based game , cookie clicker (automatically clicks on  cookie
 all by itself using the code instead of you having to manually do it and then selects upgrades when available and  purchases them, completely automatically)
-- You can familarize youself with the [game](http://orteil.dashnet.org/experiments/cookie/)
+- You can familarize youself with the [game](https://orteil.dashnet.org/experiments/cookie/)
 
 ## Prerequesites
 - Selenium,to [install](https://chromedriver.chromium.org/downloads)
