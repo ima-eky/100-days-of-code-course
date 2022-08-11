@@ -110,6 +110,6 @@ SR No   | Project | Author
 65|[Day-65 Web Design School(Creating a website people will love) ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-65)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 66|[Day-66 Building a full REST API  ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-66)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 67|[Day-67  Restful Blog with Editing](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-67)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-68|[Day-68  Login and Registering users with authentication ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-68)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+68|[Day-68  Login and Registering Users with Authentication ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-68)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 69|[Day-69 Adding Users to Blog Project ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-69)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-70|[Day-70 Deploying your web application with Heroku](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-59)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+70|[Day-70 Deploying your Web Application with Heroku](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-70)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
