@@ -11,7 +11,7 @@
 
 ![deploying_flask](https://user-images.githubusercontent.com/101118595/184251346-d95a792c-7516-41df-99f9-11b4a1dbeb7f.png)
 
--You need to install (gunicorn)[https://docs.gunicorn.org/en/stable/install.html]
+-You need to install [gunicorn](https://docs.gunicorn.org/en/stable/install.html)
 - Add the newly installed package to the requirements.txt file on a new line (gunicorn==<version number>)
 - Create a new file in the project top-level folder called Procfile ( and type `web: gunicorn main:app` in file)
 - Click View app to see your web app(it should work now)
