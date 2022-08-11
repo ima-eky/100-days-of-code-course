@@ -25,4 +25,4 @@
   ### 0utput Expected
   
   
-![deployed_blog](https://user-images.githubusercontent.com/101118595/184255902-4ae2c218-709d-4f20-a784-cce88a9f8178.png)
+![web_blog](https://user-images.githubusercontent.com/101118595/184256004-21125988-9dc7-4e41-a290-1c7e053bb358.png)
