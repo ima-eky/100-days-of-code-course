@@ -95,7 +95,7 @@ SR No   | Project | Author
 47|[Day-47 Product Tracker(on Amazon)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-47)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 48|[Day-48 Automating Sign Up (for newsletter) ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-48)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 49|[Day-49 Cookie Clicker Project](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-49)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
-52|[Day-52 Data Entry (Available Property)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-52)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+52|[Day-52 Automating Data Entry ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-52)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 53|[Day-53 Intro to Web Development with FLask](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-53)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 54|[Day-54 Guess the Number game (HTML and URL parsing with Flask)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-54)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 55|[Day-55 Name Card Website (rendering HTML/Static/Templates file)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-55)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
