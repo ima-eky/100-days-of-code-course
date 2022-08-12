@@ -23,3 +23,6 @@
 - or flask run
 
 ### Output expected
+
+
+![favorite_movies](https://user-images.githubusercontent.com/101118595/184410465-47ae6ce8-14e7-4171-92da-153b240e17a3.png)
