@@ -1,6 +1,6 @@
 # Web Design School
 
-Design is really really powerful. It's one of the cheapest ways to make your company or your product look expensive because it's elevating.There are the four pillars of good web design.
+Design is really really powerful. It's one of the cheapest ways to make your company or your product look expensive because your design  is elevating.There are the four pillars of good web design.
 
 1.Color theory 
 
