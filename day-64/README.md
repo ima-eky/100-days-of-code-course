@@ -12,7 +12,7 @@
  particularly useful)
  - To get a particular movie details[https://developers.themoviedb.org/3/movies/get-movie-details](https://developers.themoviedb.org/3/movies/get-movie-details)
 
-- ### Prerequesites
+### Prerequesites
 - Install requirements `pip install -r requirements.txt`
 
 ### How to run script/development server
