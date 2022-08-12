@@ -1,5 +1,5 @@
 # Building a RESTful Blog with Editing
--  HTTP routes are addded to script so that you can create new blog posts, edit posts and delete posts(by making GET ,POST and DELETE requests)
+-  More HTTP routes are addded to script so that you can create new blog posts, edit posts and delete posts(by making GET ,POST and DELETE requests)
  in our blog from previous day(day-59).
  
  ### Prerequesites
