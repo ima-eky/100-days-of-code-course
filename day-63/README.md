@@ -6,7 +6,7 @@ This is good for you if you ever wanted to keep track of the books you/others ha
 
 - SQLAlchemy is defined as an ORM Object Relational Mapping library. This means that it's able to map the relationships in the database into Objects.
 - Tables can be defined as separate Classes and each row of data is a new Object.[Here's](https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/#a-minimal-application) more documentation on SQLAchemy
-- The main aim of this project is to get grasp of CRUD OPERATIONS.(You can always improve the front-end aspect of this project)
+- The main aim of this project is to get grasp of CRUD OPERATIONS.(You can always improve the front-end/UI-UX aspect of this project)
 
 
 ### Prerequesites
