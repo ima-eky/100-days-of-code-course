@@ -5,6 +5,9 @@ Design is really really powerful. It's one of the cheapest ways to make your com
 1.Color theory 
 
 2.Typography
+
 3.User interface design
+
 4.User experience design.
-Web design [explained](https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI)
+
+- Feel free to check out [Web design Explained](https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI) to understand these pillars.
