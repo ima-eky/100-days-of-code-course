@@ -3,9 +3,9 @@
 - The database consists of a bunch of cafes to remote-work (you'll have to also consider the database CRUD functions)
 - Postman - The all in one API Testing Tool,allows you to create [documentation](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/) for your API and also test your API.
 - Make sure that you've made each of the requests and they work as you expect before building your documentation. 
-- More on Variable [rules](https://flask.palletsprojects.com/en/1.1.x/quickstart/#variable-rules) , HTTP status [codes](https://www.webfx.com/web-development/glossary/http-status-codes/),how to return a [JSON](https://www.adamsmith.haus/python/docs/flask.jsonify) of required data.
 -  You can download it [here](https://www.postman.com/downloads/) for free.
--  Here's a [link](https://documenter.getpostman.com/view/22470891/UzkV1vsF) to my documentation for my API service(It explains how to make requests and results you get by making ceratin requests.).
+-  Here's a [link](https://documenter.getpostman.com/view/22470891/UzkV1vsF) to my documentation for my API service(It explains how to make requests and results you get by making ceratin requests.)
+- More on Variable [rules](https://flask.palletsprojects.com/en/1.1.x/quickstart/#variable-rules) , HTTP status [codes](https://www.webfx.com/web-development/glossary/http-status-codes/),how to return a [JSON](https://www.adamsmith.haus/python/docs/flask.jsonify) of required data.
 
 ### Prerequesites
 - Install requirements `pip install -r requirements.txt`
