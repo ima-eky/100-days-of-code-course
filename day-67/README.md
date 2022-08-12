@@ -1,6 +1,7 @@
 # Building a RESTful Blog with Editing
 -  More HTTP routes are addded to script so that you can create new blog posts, edit posts and delete posts(by making GET ,POST and DELETE requests)
  in our blog from previous day(day-59).
+- [Here's](https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/#a-minimal-application) more documentation on SQLAchemy
  
  ### Prerequesites
 - Install requirements `pip install -r requirements.txt`
