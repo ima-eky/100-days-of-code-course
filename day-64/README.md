@@ -4,7 +4,7 @@
  - You should be able to view movie list items (from your database),edit a movie's rating and review,delete movies from the Database ,add new 
   movies via the add route and sort/rank movies by their ratings
  - You'll be dealing with WTForms,you can find help at [https://wtforms.readthedocs.io/en/2.3.x/](https://wtforms.readthedocs.io/en/2.3.x/) , 
- [https://pythonhosted.org/Flask-Bootstrap/forms.html](https://pythonhosted.org/Flask-Bootstrap/forms.html)
+ [https://pythonhosted.org/Flask-Bootstrap/forms.html](https://pythonhosted.org/Flask-Bootstrap/forms.html) or refer back to day-61
  -  [Here's](https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/#a-minimal-application) more documentation on SQLAchemy
  -  You will need to sign up for a free account on [The Movie Database](https://developers.themoviedb.org) (go to Settings -> API and get an API Key that you'll use in project),to be able 
  to make a request and search The Movie Database API for all the movies that match that title when adding new movies to database.
