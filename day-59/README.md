@@ -19,4 +19,5 @@ Download [here](https://startbootstrap.com/theme/clean-blog) to use template or 
 
 ### Output expected
 <img src="https://github.com/ima-eky/100-days-of-code-course/blob/main/img/blog.png" title="Sample image" />
+br>
 - The contact form should work.You may need to check out script from [day-60](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-60)
