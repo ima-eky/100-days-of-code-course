@@ -17,4 +17,4 @@ and how to use the data from the form to actually send an email to ourselves wit
 - or flask run
 
 ### Output expected
- - Code should get hold of the name and password that was entered into the form and send it back to the client as a <h1>. 
+ - Code should get hold of the name and password that was entered into the form and send it back to the client as a <h1>.
