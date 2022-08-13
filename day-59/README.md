@@ -6,6 +6,7 @@ In this script,a blog website is built using clean blog theme created by [start 
 - dynamically generated blog post pages with full screen titles
 - Fully mobile responsive with an adaptive navigation bar 
 Download [here](https://startbootstrap.com/theme/clean-blog) to use template or you can `git clone https://github.com/StartBootstrap/startbootstrap-clean-blog.git`
+- [https://jinja.palletsprojects.com/en/2.11.x/templates/#if](https://jinja.palletsprojects.com/en/2.11.x/templates/#if)
 
 ### Prerequesites
 - Install requirements `pip install -r requirements.txt`
