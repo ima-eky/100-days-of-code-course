@@ -10,10 +10,12 @@ For example:
  #
 - The website in this script, that holds some secrets. Only with the right username and password can you access the page with our secrets.
 - Creating [WTForms](https://flask-wtf.readthedocs.io/en/1.0.x/form/)
+- [Inheriting Templates Using Jinja2](https://svn.python.org/projects/external/Jinja-1.1/docs/build/inheritance.html)
 
 ### Prerequesites
 - Install requirements `pip install -r requirements.txt`
-- `pip install Flask-WTF` in terminal ,[https://flask-wtf.readthedocs.io/en/1.0.x/install/](https://flask-wtf.readthedocs.io/en/1.0.x/install/)
+- We are installing Flask-Bootstrap to use [Flask-Bootstrap](https://pythonhosted.org/Flask-Bootstrap/basic-usage.html) as an Inherited Template.Also,
+ Flask-Bootstrap has one of the most convenient methods for [generating forms](https://pythonhosted.org/Flask-Bootstrap/forms.html) with WTForms
 
 ### How to run script/development server
 - Navigate to project/day's directory
