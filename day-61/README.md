@@ -25,3 +25,5 @@ For example:
 - or flask run
 
 ### Output expected
+ 
+![wtf_forms](https://user-images.githubusercontent.com/101118595/184462832-d58783c9-e5c0-4fe6-afad-712a0d04d4d6.png)
