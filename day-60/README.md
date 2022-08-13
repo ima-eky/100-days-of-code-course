@@ -1,6 +1,6 @@
 # Making the Contact Form Work (from day-59)
 -  For the contact form in our blog to work,you'll need to understand how HTML forms are submitted 
-and how to use the data from the form to actually send an email to ourselves with the data submitted by the user(You might need to review script on smtplib from Day 32.)
+and how to use the data from the form to actually send an email to ourselves with the data submitted by the user(You might need to review script on smtplib from [Day 32](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-32).)
 - [HTML <form> action Attribute](https://www.w3schools.com/tags/att_form_action.asp)
 - [HTML <form> method Attribute](https://www.w3schools.com/tags/att_form_method.asp)
 - Sending data from HTML form to a [Python script](https://stackoverflow.com/questions/11556958/sending-data-from-html-form-to-a-python-script-in-flask) 
