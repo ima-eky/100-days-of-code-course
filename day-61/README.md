@@ -7,6 +7,7 @@ For example:
 - Easier to get hold of the form [data](https://wtforms.readthedocs.io/en/2.3.x/crash_course/#how-forms-get-data)
 - Less Code(You should not create any <label> or <input> elements manually using HTML.).[https://wtforms.readthedocs.io/en/2.3.x/fields/#basic-fields](https://wtforms.readthedocs.io/en/2.3.x/fields/#basic-fields)
 - Built in CSRF(Cross Site Request Forgery) Protection:it's an attack that can be made on website forms which forces your users to do unintended actions
+ #
 - The website in this script, that holds some secrets. Only with the right username and password can you access the page with our secrets.
 - Creating [WTForms](https://flask-wtf.readthedocs.io/en/1.0.x/form/)
 
