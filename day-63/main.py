@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.exc import IntegrityError,StatementError
 
+
 app = Flask(__name__)
 #CREATE DATABASE
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
