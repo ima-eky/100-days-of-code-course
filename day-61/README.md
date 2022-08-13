@@ -1,6 +1,6 @@
 #  Building Advanced Forms
 - You're going to build forms using a Flask extension called Flask-WTF.It has a number of benefits over the simple HTML Form
-#### 
+######
 For example:
 - Easy [Form Validation](https://wtforms.readthedocs.io/en/2.3.x/validators/#module-wtforms.validators):Makes sure the user is entering data in the required format in all the required fields
 - Easy display of [errors](https://wtforms.readthedocs.io/en/2.3.x/crash_course/#displaying-errors)
