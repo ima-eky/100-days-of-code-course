@@ -21,5 +21,6 @@
   - ` python debugging.py`
   
   ### Additionally:
-  The PayScale dataset used in this lesson was from 2008 and looked at the prior 10 years.You use what you've learnt about web scraping in the prior lessons (e.g Day 45) and get some updated information from PayScale's website. 
+  The PayScale dataset used in this lesson was from 2008 and looked at the prior 10 years.You use what you've learnt about web scraping in the prior lessons (e.g Day 45) and get some updated information from PayScale's [website](https://www.payscale.com/college-salary-report/majors-that-pay-you-back/bachelors). 
+  - Summary of day's [learning points](https://github.com/ima-eky/100-days-of-code-course/blob/main/day-71/learning_points.txt)
   
