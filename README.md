@@ -113,3 +113,5 @@ SR No   | Project | Author
 68|[Day-68  Login and Registering Users with Authentication ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-68)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 69|[Day-69 Adding Users to Blog Project ](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-69)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 70|[Day-70 Deploying your Web Application with Heroku](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-70)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+71|[Day-71 Data Exploration with Pandas](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-71)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+
