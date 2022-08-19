@@ -15,5 +15,11 @@
             or
   - `pip install pandas`
   - `pip install jupyter`
-  - Navigate to day's directory
+  
+  ## How to run script
+  - Navigate to project and day's directory
+  - ` python debugging.py`
+  
+  ### Additionally:
+  The PayScale dataset used in this lesson was from 2008 and looked at the prior 10 years.You use what you've learnt about web scraping in the prior lessons (e.g Day 45) and get some updated information from PayScale's website. 
   
