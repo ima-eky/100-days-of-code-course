@@ -21,6 +21,8 @@ the format you want,work with timestamps and time-series data and style and cust
   ### Additionally:
   - Summary of day's [learning points](https://github.com/ima-eky/100-days-of-code-course/blob/main/day-72/learning_points.txt)
   
+  
 
 
+![plotted_graph](https://user-images.githubusercontent.com/101118595/185730119-a3b162e2-e61a-463f-973e-c67a62340202.png)
 
