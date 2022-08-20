@@ -1,7 +1,6 @@
 # Analyses of the Popularity of Different Programming Languages over Time (from posts on Stack Overflow)
 
 To figure out which language is the most popular,we need to count the number of posts on Stack Overflow that are tagged with each language.
-The language with the most posts wins!
 In this script,you'll visualise your data and create charts with Matplotlib, pivot, group and manipulate your data with Pandas to get it into 
 the format you want,work with timestamps and time-series data and style and customise a line chart to your liking.
 
