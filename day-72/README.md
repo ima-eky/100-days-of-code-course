@@ -11,7 +11,7 @@ the format you want,work with timestamps and time-series data and style and cust
             or
   - `pip install pandas`
   - `pip install jupyter`
-  - `pip install matploblib`
+  - `pip install matploblib`[https://matplotlib.org/](https://matplotlib.org/)
   - `pip install tabulate`
   
   ## How to run script
