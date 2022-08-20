@@ -12,6 +12,7 @@ the format you want,work with timestamps and time-series data and style and cust
   - `pip install pandas`
   - `pip install jupyter`
   - `pip install matploblib`
+  - `pip install tabulate`
   
   ## How to run script
   - Navigate to project and day's directory
