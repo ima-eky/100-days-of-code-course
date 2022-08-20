@@ -24,5 +24,5 @@ the format you want,work with timestamps and time-series data and style and cust
   
 
 
-![plotted_graph](https://user-images.githubusercontent.com/101118595/185730119-a3b162e2-e61a-463f-973e-c67a62340202.png)
 
+![Screenshot (126)](https://user-images.githubusercontent.com/101118595/185730162-789addd0-78ba-4103-b640-9308e3912330.png)
