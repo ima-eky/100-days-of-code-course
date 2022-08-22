@@ -115,5 +115,7 @@ SR No   | Project | Author
 70|[Day-70 Deploying your Web Application with Heroku](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-70)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 71|[Day-71 Data Exploration with Pandas](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-71)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
 72|[Day-72 Data Visualization with Matploblib](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-72)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+73|[Day-73 Analyse LEGO dataset (Aggregate and merge data with pandas)](https://github.com/ima-eky/100-days-of-code-course/tree/main/day-73)| [Ekanem Ima-Abasi](https://github.com/ima-eky)
+
 
 
