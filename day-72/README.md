@@ -6,7 +6,7 @@ the format you want,work with timestamps and time-series data and style and cust
 
  ## Requirements 
   - You might find the Python notebook format better suited when exploring and visualising a dataset,[Here's](https://colab.research.google.com) to 
-  google Colab Notebook(You'd have to upload thw file(s) you wish to analyze,salaries_by_major.csv) or if you run locally on your computer, you can install [Anaconda](https://www.anaconda.com/products/distribution) and use
+  google Colab Notebook(You'd have to upload the file(s) you wish to analyze,salaries_by_major.csv) or if you run locally on your computer, you can install [Anaconda](https://www.anaconda.com/products/distribution) and use
   the bundled Jypyter Notebook instead.
             or
   - `pip install pandas`
