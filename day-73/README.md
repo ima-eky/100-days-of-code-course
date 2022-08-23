@@ -19,7 +19,7 @@ organised by primary and foreign keys,merge DataFrames that share a common key a
   or if you run locally on your computer, you can install [Anaconda](https://www.anaconda.com/products/distribution) and use the bundled Jypyter Notebook instead.
   
   
-  ## How to run script
+  ## How to run script(if you are working locally)
   - Navigate to project and day's directory
   - ` python main.py`
 
