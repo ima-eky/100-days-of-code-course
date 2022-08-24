@@ -47,7 +47,7 @@ data=pd.read_csv('data/colors.csv')
 
 data['name'].nunique()
 
-data.head()
+print(data.head())
 
 """**Challenge**: Find the number of transparent colours where <code>is_trans == 't'</code> versus the number of opaque colours where <code>is_trans == 'f'</code>. See if you can accomplish this in two different ways."""
 
@@ -118,7 +118,7 @@ plt.ylabel('Count',fontsize=14)
 plt.xlabel('Year',fontsize=14)
 plt.ylim(0,800)
 plt.plot(sets_by_year.index[:-2],sets_by_year['set_num'][:-2],linewidth=3)
-
+plt.show()
 """### Aggregate Data with the Python .agg() Function
 
 Let's work out the number of different themes shipped by year. This means we have to count the number of unique theme_ids per calendar year.
