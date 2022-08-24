@@ -8,6 +8,7 @@ For example
 - Which LEGO theme has the most sets? 
 - When did the LEGO company really take-off based on its product offering? How many themes and sets did it release every year?
 - Did LEGO sets grow in size and complexity over time? Do older LEGO sets tend to have more or fewer parts than newer sets? 
+
 You'll combine a Notebook with HTML Markup,apply Python List slicing techniques to Pandas DataFrames,aggregate data using 
 the .agg() function,create scatter plots, bar charts, and line charts with two axes in Matplotlib,understand database schemas that are 
 organised by primary and foreign keys,merge DataFrames that share a common key and so on.
