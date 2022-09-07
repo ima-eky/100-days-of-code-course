@@ -8,6 +8,7 @@ For example
 - Which LEGO theme has the most sets? 
 - When did the LEGO company really take-off based on its product offering? How many themes and sets did it release every year?
 - Did LEGO sets grow in size and complexity over time? Do older LEGO sets tend to have more or fewer parts than newer sets? 
+
 You'll combine a Notebook with HTML Markup,apply Python List slicing techniques to Pandas DataFrames,aggregate data using 
 the .agg() function,create scatter plots, bar charts, and line charts with two axes in Matplotlib,understand database schemas that are 
 organised by primary and foreign keys,merge DataFrames that share a common key and so on.
@@ -20,7 +21,7 @@ organised by primary and foreign keys,merge DataFrames that share a common key a
   
   ## How to run script(if you are working locally)
   - Navigate to project and day's directory
-  - ` python main.py`
+  - ` python lego_analysis_for_course.py`(You might need to add some print statement to get ouput on your terminal)
 
   ### Additionally:
   - Summary of day's [learning points](https://github.com/ima-eky/100-days-of-code-course/blob/main/day-73/learning_points.txt)
