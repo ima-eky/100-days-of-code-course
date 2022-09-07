@@ -1,7 +1,7 @@
 # Overview
 
 A text-based (command line) program that takes String input and converts it into Morse Code and vice-versa.
-[Morse code](https://www.britannica.com/topic/Morse-Code) s a method used in telecommunication to encode text characters as standardized sequences of two different signal durations,
+[Morse code](https://www.britannica.com/topic/Morse-Code) is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations,
 called dots and dashes, or dits and dah. Morse code is named after Samuel Morse, one of the inventors of the telegraph.
 
 ## Prerequisites
