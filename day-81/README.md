@@ -21,11 +21,12 @@ Run the script by typing `python main.py `
 Would you like to encrypt or decrypt text? Type 1 to encrypt text, 2 to decrpyt text and 3 to exit:1
 What's the text?:
 I love coding so much.
-..  .-.. --- ...- .  -.-. --- -.. .. -. --.  ... ---  -- ..- -.-. .... .-.-.- 
+Result : ..  .-.. --- ...- .  -.-. --- -.. .. -. --.  ... ---  -- ..- -.-. .... .-.-.- 
 Would you like to encrypt or decrypt text? Type 1 to encrypt text, 2 to decrpyt text and 3 to exit:2
 What's the text?:
 ..  .-.. --- ...- .  -.-. --- -.. .. -. --.  ... ---  -- ..- -.-. .... .-.-.- 
-I love coding so much.
+Result : I love coding so much.
 Would you like to encrypt or decrypt text? Type 1 to encrypt text, 2 to decrpyt text and 3 to exit:3
+Bye.
 
 ```
